@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Technology — AI detection, tracking and control | Anmay Defence</title>
+<meta name="description" content="How the STRIKE counter-drone system works: AI detection and tracking, grid-based acquisition, actuator design, stepper drives, operator console and roadmap.">
+<meta property="og:title" content="Technology — AI detection, tracking and control | Anmay Defence">
+<meta property="og:description" content="How the STRIKE counter-drone system works: AI detection and tracking, grid-based acquisition, actuator design, stepper drives, operator console and roadmap.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500&family=Inter:wght@400;500&family=JetBrains+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site">
+  <div class="wrap nav">
+    <a class="logo" href="index.html" aria-label="Anmay Defence — home">
+      <svg viewBox="0 0 138.4 48" role="img" aria-label="Anmay Defence"><use href="#lg"/><circle class="lp" cx="24" cy="9" r="6.5"/></svg>
+    </a>
+    <ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="strike.html">STRIKE</a></li>
+<li><a href="technology.html" aria-current=page>Technology</a></li>
+<li><a href="work.html">Work</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+    </ul>
+    <span class="bw"><a class="btn" href="contact.html">Request a briefing</a></span>
+    <button class="menu-btn" aria-expanded="false" aria-controls="mobile-nav">Menu</button>
+  </div>
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile">
+<a href="index.html">Home</a>
+<a href="strike.html">STRIKE</a>
+<a href="technology.html">Technology</a>
+<a href="work.html">Work</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main id="main">
+<section class="page-hero">
+  <div class="wrap">
+    <p class="crumbs"><a href="index.html">Home</a> / Technology</p>
+    <p class="lab">How it works</p>
+    <h1>Detection, tracking and control — built as one system.</h1>
+    <p class="sub">Computer vision identifies and follows the target; the mechanical platform keeps it framed; the operator decides. Every layer in that chain is designed in-house.</p>
+    <div class="chips"><span class="chip">Computer vision</span><span class="chip">Servo actuation</span><span class="chip">Stepper azimuth</span><span class="chip">Operator console</span></div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <p class="lab rv">Pipeline</p>
+    <h2 class="rv">From pixels to a decision</h2>
+    <div class="pipe rv">
+      <div><b>01</b><span>Detect</span></div>
+      <div><b>02</b><span>Identify</span></div>
+      <div><b>03</b><span>Track</span></div>
+      <div><b>04</b><span>Prioritise</span></div>
+      <div><b>05</b><span>Respond</span></div>
+    </div>
+    <div class="grid2" style="margin-top:3.5rem;align-items:start">
+      <div class="rv">
+        <p class="sub" style="margin-top:0">The tracker runs on an edge computer at the site. A live camera feed is divided into a search grid; each cell is scored continuously, and a confidence label follows the best candidate. When confidence holds, the platform locks and the gimbal follows the target.</p>
+        <ul class="checks">
+          <li>Grid-based search with per-cell confidence scoring</li>
+          <li>Target box with acquisition state: <span style="font-family:var(--m);font-size:.85em">acq → lock → coast</span></li>
+          <li>Telemetry for lock, focus, digital zoom, gimbal settling and command TX rate</li>
+          <li>Multiple simultaneous tracks with priority selection</li>
+        </ul>
+      </div>
+      <figure class="frame rv">
+        <video controls preload="metadata" poster="assets/web/drone-tracker-telemetry-poster.jpg" style="width:100%;border-radius:var(--rad);border:1px solid var(--ln);background:#000">
+          <source src="assets/videos/drone-tracker-app-screen-recording-grid-hud-live-acquisition-1080p.webm" type="video/webm">
+          Your browser cannot play this WebM file. It is available in the repository at assets/videos/drone-tracker-app-screen-recording-grid-hud-live-acquisition-1080p.webm
+        </video>
+        <figcaption>Actual screen recording of the operator application acquiring and tracking a drone (12 minutes, 1080p).</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="sec alt" id="engineering">
+  <div class="wrap">
+    <p class="lab rv">Engineering</p>
+    <h2 class="rv">Actuation designed and measured in-house</h2>
+    <p class="sub rv">The trigger units are servo-driven, bracketed to the receiver and measured by hand before every iteration. The azimuth drive uses a stepper motor with a geared slew column; the elevation arm uses a machined screw mechanism.</p>
+    <div class="grid3">
+      <figure class="frame rv">
+        <img src="assets/web/ak-trigger-servo-linkage-with-ruler-and-green-sling-closeup.jpg" alt="Servo trigger linkage measured with a steel rule" class="ratio-4-3" loading="lazy">
+        <figcaption>Trigger actuator: servo horn, pushrod and trigger guard, measured against a steel rule.</figcaption>
+      </figure>
+      <figure class="frame rv">
+        <img src="assets/web/stepper-driver-dq542ma-wiring-and-dip-switch-closeup.jpg" alt="DQ542MA stepper driver wiring" class="ratio-4-3" loading="lazy">
+        <figcaption>DQ542MA stepper driver on the azimuth axis, wired and documented.</figcaption>
+      </figure>
+      <figure class="frame rv">
+        <img src="assets/web/slew-drive-shaft-spur-gear-and-bearing-plate-on-workshop-floor.jpg" alt="Slew drive test fit with spur gear and bearing plate" class="ratio-4-3" loading="lazy">
+        <figcaption>Slew column test-fit: spur gear, bearing plate and bolted base.</figcaption>
+      </figure>
+      <figure class="frame rv">
+        <img src="assets/web/electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-01.jpg" alt="Clear electronics enclosure with ESP32 and MOSFET" class="ratio-4-3" loading="lazy">
+        <figcaption>Control electronics: microcontroller, MOSFET stage and terminal blocks in a clear case.</figcaption>
+      </figure>
+      <figure class="frame rv">
+        <img src="assets/web/aluminium-timing-pulley-held-in-palm-dark-background.jpg" alt="Machined aluminium timing pulley" class="ratio-4-3" loading="lazy">
+        <figcaption>Machined parts are made and checked locally.</figcaption>
+      </figure>
+      <figure class="frame rv">
+        <img src="assets/web/cad-strike-gen1-turret-exploded-assembly-labelled-diagram.jpg" alt="Labelled exploded CAD diagram of the turret" class="ratio-4-3" loading="lazy">
+        <figcaption>Exploded CAD of the Gen1 mount: domes, gears, elevation arm, stepper, base.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="control">
+  <div class="wrap grid2" style="align-items:start">
+    <div class="rv">
+      <p class="lab">Command &amp; control</p>
+      <h2>An operator console you can carry</h2>
+      <p class="sub">Control runs from a laptop or a handheld console with joysticks and toggles, over a radio or wired link. Automatic mode lets the system search, lock and follow; manual mode hands full authority back to the operator.</p>
+      <ul class="checks">
+        <li>Automatic and manual engagement modes</li>
+        <li>Handheld console with dual thumb-sticks and function toggles</li>
+        <li>Relay board and field wiring serviceable on the vehicle bed</li>
+        <li>Runbook-driven startup so any crew member can bring the system up</li>
+      </ul>
+      <div class="row"><span class="bw"><a class="btn ghost" href="work.html#gallery">See operations frames</a></span></div>
+    </div>
+    <div class="media-stack rv">
+      <figure class="frame">
+        <img src="assets/web/operator-soldier-in-camo-with-pistol-grip-controller-on-truck-bed.jpg" alt="Soldier in camouflage operating a pistol-grip controller on the truck bed">
+        <figcaption>Operator with the pistol-grip controller, on the vehicle bed.</figcaption>
+      </figure>
+      <figure class="frame">
+        <img src="assets/web/control-console-black-joystick-red-buttons-on-camo-vehicle.jpg" alt="Black joystick console with red buttons">
+        <figcaption>The console: thumb-sticks, function buttons, status display.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="sec alt" id="roadmap">
+  <div class="wrap">
+    <p class="lab rv">Roadmap</p>
+    <h2 class="rv">Designed to evolve with the threat</h2>
+    <div class="grid2" style="margin-top:2.5rem;align-items:start">
+      <ol class="tl rv">
+        <li><b>Gen1 · in service</b><h4>Intelligent surveillance and response</h4><p>AI detection and tracking, 360° azimuth, 75° elevation, five trigger units, vehicle or static mount.</p></li>
+        <li><b>Gen2 · in development</b><h4>Layered defence</h4><p>Kinetic plus electronic warfare, day/night PTZ with 30× zoom, LiDAR, edge AI, 2 km wireless video, 5 km fibre.</p></li>
+        <li><b>Gen3 · concept</b><h4>Autonomous and networked</h4><p>Networked sensors, autonomous coordination and future payload options. Published as a direction of work, not as delivered capability.</p></li>
+      </ol>
+      <div class="rv">
+        <div class="note">
+          <b>Messaging discipline</b>
+          We describe only what is built and measured. Swarm defeat, autonomous networks and directed energy appear on this site as R&amp;D directions. Where a render is used, it is labelled as a concept.
+        </div>
+        <div class="note warn" style="margin-top:1rem">
+          <b>Standards</b>
+          Military-grade compliance is a target of the development programme, not a certification already held.
+        </div>
+        <div class="note" style="margin-top:1rem">
+          <b>Documentation</b>
+          The approved storyboard and specification sheets are part of the asset archive and listed on the <a href="work.html#documents">work page</a>.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec dark">
+  <div class="wrap">
+    <h2 class="rv" style="max-width:30ch">Want the technical walkthrough?</h2>
+    <div class="row"><span class="bw"><a class="btn" href="contact.html">Request a briefing</a></span></div>
+  </div>
+</section>
+</main>
+<footer class="site">
+  <div class="wrap">
+    <div class="fg">
+      <div>
+        <a class="logo" href="index.html" aria-label="Anmay Defence — home">
+          <svg viewBox="0 0 138.4 48" role="img" aria-label="Anmay Defence"><use href="#lg"/></svg>
+        </a>
+        <p>Securing the skies. Defending the future.</p>
+        <p style="margin-top:.75rem;color:var(--g4);font-size:.875rem">An initiative by Robonut Project.</p>
+      </div>
+      <div>
+        <h5>Platform</h5>
+        <ul>
+          <li><a href="strike.html">STRIKE Gen1</a></li>
+          <li><a href="strike.html#gen2">STRIKE Gen2</a></li>
+          <li><a href="strike.html#strike-m">STRIKE M</a></li>
+          <li><a href="technology.html">Technology</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Company</h5>
+        <ul>
+          <li><a href="about.html">About Anmay</a></li>
+          <li><a href="work.html">Work &amp; assets</a></li>
+          <li><a href="docs/assets-index.md">Asset index</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Resources</h5>
+        <ul>
+          <li><a href="strike.html#specs">Specifications</a></li>
+          <li><a href="technology.html#roadmap">Roadmap</a></li>
+          <li><a href="docs/assets-catalog.csv">Asset catalogue (CSV)</a></li>
+          <li><a href="docs/shortlist.md">Image shortlist</a></li>
+          <li><a href="legacy/index-single-page-v1.html">Original landing page</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="fine">
+      <span>© <span id="year">2026</span> Anmay Defence. All rights reserved.</span>
+      <span>Engineering and imagery by Robonut Project · Pune, India</span>
+    </div>
+  </div>
+</footer>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="lg" viewBox="0 0 138.4 48"><g fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 41L24 9L41 41"/><path d="M14.6 26.7A20 20 0 0 0 33.4 26.7"/></g><circle cx="24" cy="9" r="6.5" fill="none" stroke="#1e5af9" stroke-opacity=".35" stroke-width="1.4"/><circle cx="24" cy="9" r="3.6" fill="#1e5af9"/><path d="M61 23.9H58.1L63.4 9H66.7L72 23.9H69.1L65.1 12H65ZM61.1 18.1H69V20.2H61.1ZM86.5 9V23.9H84L77 13.7H76.8V23.9H74.1V9H76.6L83.6 19.2H83.8V9ZM89.5 9H92.9L97.3 19.8H97.5L102 9H105.3V23.9H102.7V13.6H102.5L98.4 23.9H96.4L92.3 13.6H92.2V23.9H89.5ZM110.3 23.9H107.4L112.7 9H116.1L121.4 23.9H118.5L114.4 12H114.3ZM110.4 18.1H118.3V20.2H110.4ZM121.7 9H124.7L128.4 15.6H128.6L132.2 9H135.3L129.8 18.4V23.9H127.1V18.4Z" fill="currentColor"/><path d="M61.4 39H59.4V38.1H61.3Q62.4 38.1 63.1 37.7Q63.8 37.3 64.2 36.5Q64.5 35.8 64.5 34.7Q64.5 33.7 64.2 32.9Q63.8 32.2 63.2 31.8Q62.5 31.4 61.5 31.4H59.3V30.4H61.5Q62.8 30.4 63.7 31Q64.6 31.5 65 32.4Q65.5 33.4 65.5 34.7Q65.5 36.1 65 37Q64.6 38 63.6 38.5Q62.7 39 61.4 39ZM59.8 30.4V39H58.8V30.4ZM71.2 39V30.4H76.4V31.4H72.3V34.2H76.1V35.2H72.3V38.1H76.5V39ZM82.3 39V30.4H87.4V31.4H83.3V34.4H87V35.3H83.3V39ZM93.2 39V30.4H98.4V31.4H94.2V34.2H98.1V35.2H94.2V38.1H98.4V39ZM111 30.4V39H110L105.3 32.3H105.2V39H104.2V30.4H105.2L109.9 37.2H110V30.4ZM120.5 39.2Q119.4 39.2 118.6 38.6Q117.7 38.1 117.2 37.1Q116.7 36.1 116.7 34.8Q116.7 33.4 117.2 32.4Q117.7 31.4 118.6 30.9Q119.4 30.3 120.5 30.3Q121.2 30.3 121.7 30.5Q122.3 30.7 122.8 31.1Q123.2 31.4 123.6 32Q123.9 32.5 124 33.1H122.9Q122.8 32.7 122.6 32.3Q122.4 32 122.1 31.8Q121.7 31.5 121.3 31.4Q121 31.3 120.5 31.3Q119.7 31.3 119.1 31.7Q118.5 32.1 118.1 32.9Q117.7 33.6 117.7 34.8Q117.7 35.9 118.1 36.6Q118.5 37.4 119.1 37.8Q119.7 38.2 120.5 38.2Q121 38.2 121.3 38.1Q121.7 38 122.1 37.7Q122.4 37.5 122.6 37.2Q122.8 36.8 122.9 36.4H124Q123.9 37 123.6 37.5Q123.2 38.1 122.8 38.4Q122.3 38.8 121.7 39Q121.2 39.2 120.5 39.2ZM129.6 39V30.4H134.8V31.4H130.7V34.2H134.5V35.2H130.7V38.1H134.9V39Z" fill="currentColor"/></symbol><symbol id="rd" viewBox="0 0 200 200"><g fill="none" stroke="#fff" stroke-opacity=".22"><circle cx="100" cy="100" r="30"/><circle cx="100" cy="100" r="60"/><circle cx="100" cy="100" r="90"/><path d="M100 10v180M10 100h180"/></g><path d="M100 100L172 58A84 84 0 0 1 184 100Z" fill="#1e5af9" fill-opacity=".35"/></symbol></svg>
+<script src="site/site.js"></script>
+</body>
+</html>
