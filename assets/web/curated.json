@@ -1,0 +1,514 @@
+[
+ {
+  "stem": "strike-gen1-turret-five-rifle-mount-cutout-white-bg-front-quarter",
+  "full": "assets/web/strike-gen1-turret-five-rifle-mount-cutout-white-bg-front-quarter.jpg",
+  "thumb": "assets/web/thumbs/strike-gen1-turret-five-rifle-mount-cutout-white-bg-front-quarter.jpg",
+  "category": "platform",
+  "title": "Five-rifle mount, isolated",
+  "note": "Cut-out of the Gen1 mount: five camo rifles, blue trigger servos, camera module."
+ },
+ {
+  "stem": "strike-gen1-turret-five-rifle-mount-cutout-black-bg-front-quarter",
+  "full": "assets/web/strike-gen1-turret-five-rifle-mount-cutout-black-bg-front-quarter.png",
+  "thumb": "assets/web/thumbs/strike-gen1-turret-five-rifle-mount-cutout-black-bg-front-quarter.jpg",
+  "category": "platform",
+  "title": "Five-rifle mount, dark field",
+  "note": "The same mount on black - the cleanest silhouette in the archive."
+ },
+ {
+  "stem": "strike-gen1-turret-five-rifle-mount-cutout-black-bg-left-profile",
+  "full": "assets/web/strike-gen1-turret-five-rifle-mount-cutout-black-bg-left-profile.png",
+  "thumb": "assets/web/thumbs/strike-gen1-turret-five-rifle-mount-cutout-black-bg-left-profile.jpg",
+  "category": "platform",
+  "title": "Mount, left profile",
+  "note": "Side view showing the frame depth and the trigger-servo stack."
+ },
+ {
+  "stem": "strike-gen1-turret-five-rifle-mount-cutout-white-bg-camo-box",
+  "full": "assets/web/strike-gen1-turret-five-rifle-mount-cutout-white-bg-camo-box.jpg",
+  "thumb": "assets/web/thumbs/strike-gen1-turret-five-rifle-mount-cutout-white-bg-camo-box.jpg",
+  "category": "platform",
+  "title": "Mount with camera module",
+  "note": "Tubular daylight camera on a curved arm, camo electronics box below."
+ },
+ {
+  "stem": "strike-turret-five-rifles-with-tan-slings-rear-view-square-crop",
+  "full": "assets/web/strike-turret-five-rifles-with-tan-slings-rear-view-square-crop.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-with-tan-slings-rear-view-square-crop.jpg",
+  "category": "platform",
+  "title": "Five rifles, rear view",
+  "note": "Tan canvas slings, welded frame, silver pedestal drum."
+ },
+ {
+  "stem": "strike-turret-five-rifles-black-stocks-on-truck-bed-overcast",
+  "full": "assets/web/strike-turret-five-rifles-black-stocks-on-truck-bed-overcast.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-black-stocks-on-truck-bed-overcast.jpg",
+  "category": "platform",
+  "title": "Black-stock build",
+  "note": "A later build with black furniture riding the truck bed."
+ },
+ {
+  "stem": "strike-turret-five-rifles-closeup-white-sky-square",
+  "full": "assets/web/strike-turret-five-rifles-closeup-white-sky-square.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-closeup-white-sky-square.jpg",
+  "category": "platform",
+  "title": "Close-up, white sky",
+  "note": "Clean product framing against a flat overcast sky."
+ },
+ {
+  "stem": "strike-turret-five-rifles-silver-drum-field-trees-overcast",
+  "full": "assets/web/strike-turret-five-rifles-silver-drum-field-trees-overcast.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-silver-drum-field-trees-overcast.jpg",
+  "category": "platform",
+  "title": "Turret over the silver drum",
+  "note": "Field background, flat light - good for cut-out work."
+ },
+ {
+  "stem": "strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-clean",
+  "full": "assets/web/strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-clean.jpg",
+  "thumb": "assets/web/thumbs/strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-clean.jpg",
+  "category": "platform",
+  "title": "STRIKE M: two AK, two LMG",
+  "note": "Multi-weapon variant with belt-fed LMGs on a fabricated drum."
+ },
+ {
+  "stem": "strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-video-frame",
+  "full": "assets/web/strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-video-frame.jpg",
+  "thumb": "assets/web/thumbs/strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-video-frame.jpg",
+  "category": "platform",
+  "title": "STRIKE M build, video frame",
+  "note": "Same build captured from the trial video."
+ },
+ {
+  "stem": "four-camouflage-ak-rifles-in-a-row-with-servo-actuators",
+  "full": "assets/web/four-camouflage-ak-rifles-in-a-row-with-servo-actuators.jpg",
+  "thumb": "assets/web/thumbs/four-camouflage-ak-rifles-in-a-row-with-servo-actuators.jpg",
+  "category": "platform",
+  "title": "Four rifles, four actuators",
+  "note": "Bench proof of the modular trigger-actuator approach."
+ },
+ {
+  "stem": "cad-strike-gen1-turret-exploded-assembly-labelled-diagram",
+  "full": "assets/web/cad-strike-gen1-turret-exploded-assembly-labelled-diagram.jpg",
+  "thumb": "assets/web/thumbs/cad-strike-gen1-turret-exploded-assembly-labelled-diagram.jpg",
+  "category": "platform",
+  "title": "Labelled exploded assembly",
+  "note": "CAD breakdown: dome, gears, elevation arm, stepper, fix base."
+ },
+ {
+  "stem": "strike-vehicle-on-barracks-road-dusk-overhead-drone-two-people-talking",
+  "full": "assets/web/strike-vehicle-on-barracks-road-dusk-overhead-drone-two-people-talking.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-on-barracks-road-dusk-overhead-drone-two-people-talking.jpg",
+  "category": "field",
+  "title": "On the barracks road",
+  "note": "Overhead drone frame: raised mast, two crew, single-storey barracks."
+ },
+ {
+  "stem": "strike-vehicle-on-barracks-road-overhead-drone-wide-two-people",
+  "full": "assets/web/strike-vehicle-on-barracks-road-overhead-drone-wide-two-people.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-on-barracks-road-overhead-drone-wide-two-people.jpg",
+  "category": "field",
+  "title": "Barracks road, wide",
+  "note": "The widest clean read of the vehicle in its working environment."
+ },
+ {
+  "stem": "strike-vehicle-side-profile-spare-wheel-on-bed-under-blue-sky",
+  "full": "assets/web/strike-vehicle-side-profile-spare-wheel-on-bed-under-blue-sky.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-side-profile-spare-wheel-on-bed-under-blue-sky.jpg",
+  "category": "field",
+  "title": "Side profile, blue sky",
+  "note": "Spare wheel, raised mast, PROTOTYPE and STRIKE markings."
+ },
+ {
+  "stem": "strike-vehicle-rear-quarter-on-barracks-road-three-people-overhead",
+  "full": "assets/web/strike-vehicle-rear-quarter-on-barracks-road-three-people-overhead.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-rear-quarter-on-barracks-road-three-people-overhead.jpg",
+  "category": "field",
+  "title": "Rear quarter, three crew",
+  "note": "Curated shortlist frame with the whole vehicle legible."
+ },
+ {
+  "stem": "strike-vehicle-front-quarter-with-mast-near-portico-buildings",
+  "full": "assets/web/strike-vehicle-front-quarter-with-mast-near-portico-buildings.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-front-quarter-with-mast-near-portico-buildings.jpg",
+  "category": "field",
+  "title": "Front quarter at the portico",
+  "note": "Overcast, flat light - good for a calm hero crop."
+ },
+ {
+  "stem": "strike-vehicle-under-tin-shed-aerial-dry-ground-soldier-standing",
+  "full": "assets/web/strike-vehicle-under-tin-shed-aerial-dry-ground-soldier-standing.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-under-tin-shed-aerial-dry-ground-soldier-standing.jpg",
+  "category": "field",
+  "title": "Under the tin shed",
+  "note": "Aerial frame with a soldier for scale."
+ },
+ {
+  "stem": "strike-vehicle-aerial-rear-quarter-on-dry-field-with-buildings",
+  "full": "assets/web/strike-vehicle-aerial-rear-quarter-on-dry-field-with-buildings.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-aerial-rear-quarter-on-dry-field-with-buildings.jpg",
+  "category": "field",
+  "title": "Dry field, rear quarter",
+  "note": "Aerial three-quarter with the brick buildings behind."
+ },
+ {
+  "stem": "strike-vehicle-high-aerial-barracks-compound-red-roofs-trees",
+  "full": "assets/web/strike-vehicle-high-aerial-barracks-compound-red-roofs-trees.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-high-aerial-barracks-compound-red-roofs-trees.jpg",
+  "category": "field",
+  "title": "Compound, high aerial",
+  "note": "Establishing shot of the whole site."
+ },
+ {
+  "stem": "strike-vehicle-driving-high-aerial-dirt-track-long-white-barracks",
+  "full": "assets/web/strike-vehicle-driving-high-aerial-dirt-track-long-white-barracks.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-driving-high-aerial-dirt-track-long-white-barracks.jpg",
+  "category": "field",
+  "title": "On the dirt track",
+  "note": "Motion frame - the only moving-vehicle still in the set."
+ },
+ {
+  "stem": "strike-vehicle-distant-on-dry-field-under-vast-portrait-sky",
+  "full": "assets/web/strike-vehicle-distant-on-dry-field-under-vast-portrait-sky.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-distant-on-dry-field-under-vast-portrait-sky.jpg",
+  "category": "field",
+  "title": "Distant, vast sky",
+  "note": "Negative-space frame for editorial layouts."
+ },
+ {
+  "stem": "strike-vehicle-front-on-raised-mast-220-plate-and-red-brick-building",
+  "full": "assets/web/strike-vehicle-front-on-raised-mast-220-plate-and-red-brick-building.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-front-on-raised-mast-220-plate-and-red-brick-building.jpg",
+  "category": "field",
+  "title": "Front-on, plate 220",
+  "note": "Symmetric frontal with the mast above the cab."
+ },
+ {
+  "stem": "strike-vehicle-front-quarter-on-grass-with-mast-and-hazy-sky",
+  "full": "assets/web/strike-vehicle-front-quarter-on-grass-with-mast-and-hazy-sky.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-front-quarter-on-grass-with-mast-and-hazy-sky.jpg",
+  "category": "field",
+  "title": "Front quarter on grass",
+  "note": "Hazy daylight, easy vertical crop."
+ },
+ {
+  "stem": "strike-vehicle-side-profile-on-dry-grass-field-long-barrack-distance",
+  "full": "assets/web/strike-vehicle-side-profile-on-dry-grass-field-long-barrack-distance.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-side-profile-on-dry-grass-field-long-barrack-distance.jpg",
+  "category": "field",
+  "title": "Side profile, distance",
+  "note": "Mast folded - the transport configuration."
+ },
+ {
+  "stem": "strike-vehicle-side-profile-paved-road-brick-building-power-lines",
+  "full": "assets/web/strike-vehicle-side-profile-paved-road-brick-building-power-lines.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-side-profile-paved-road-brick-building-power-lines.jpg",
+  "category": "field",
+  "title": "On the paved road",
+  "note": "Plate 089982W, power lines, brick building."
+ },
+ {
+  "stem": "strike-field-console-laptop-foreground-with-truck-mast-and-field",
+  "full": "assets/web/strike-field-console-laptop-foreground-with-truck-mast-and-field.jpg",
+  "thumb": "assets/web/thumbs/strike-field-console-laptop-foreground-with-truck-mast-and-field.jpg",
+  "category": "field",
+  "title": "Operator position",
+  "note": "4624x2080 panorama: laptop console, mast, whole field."
+ },
+ {
+  "stem": "rifle-barrels-silhouetted-against-sunlit-cloud-rays-in-blue-sky",
+  "full": "assets/web/rifle-barrels-silhouetted-against-sunlit-cloud-rays-in-blue-sky.jpg",
+  "thumb": "assets/web/thumbs/rifle-barrels-silhouetted-against-sunlit-cloud-rays-in-blue-sky.jpg",
+  "category": "detail",
+  "title": "Barrels against the sunburst",
+  "note": "The most atmospheric frame in the archive."
+ },
+ {
+  "stem": "strike-turret-five-rifles-at-sunset-brick-building-follow-me-sign",
+  "full": "assets/web/strike-turret-five-rifles-at-sunset-brick-building-follow-me-sign.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-at-sunset-brick-building-follow-me-sign.jpg",
+  "category": "detail",
+  "title": "Turret at sunset",
+  "note": "Warm sky, antenna, FOLLOW ME board at the edge."
+ },
+ {
+  "stem": "strike-turret-five-rifles-from-below-dry-tree-and-sunset-sky",
+  "full": "assets/web/strike-turret-five-rifles-from-below-dry-tree-and-sunset-sky.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-from-below-dry-tree-and-sunset-sky.jpg",
+  "category": "detail",
+  "title": "From below, dry tree",
+  "note": "Silhouette read of the mount against foliage."
+ },
+ {
+  "stem": "strike-turret-crew-viewpoint-rifle-barrels-roadside-buildings",
+  "full": "assets/web/strike-turret-crew-viewpoint-rifle-barrels-roadside-buildings.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-crew-viewpoint-rifle-barrels-roadside-buildings.jpg",
+  "category": "detail",
+  "title": "Crew viewpoint",
+  "note": "What the operator actually sees past the frame."
+ },
+ {
+  "stem": "strike-turret-five-rifles-with-two-crew-on-bed-white-truck-behind",
+  "full": "assets/web/strike-turret-five-rifles-with-two-crew-on-bed-white-truck-behind.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-with-two-crew-on-bed-white-truck-behind.jpg",
+  "category": "detail",
+  "title": "Two crew on the bed",
+  "note": "Human scale against the five-rifle frame."
+ },
+ {
+  "stem": "strike-turret-four-rifles-with-operator-crouched-on-truck-bed-field",
+  "full": "assets/web/strike-turret-four-rifles-with-operator-crouched-on-truck-bed-field.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-four-rifles-with-operator-crouched-on-truck-bed-field.jpg",
+  "category": "detail",
+  "title": "Operator crouched",
+  "note": "Working posture during a field trial."
+ },
+ {
+  "stem": "strike-turret-camo-rifles-blue-servos-silver-dome-portrait",
+  "full": "assets/web/strike-turret-camo-rifles-blue-servos-silver-dome-portrait.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-camo-rifles-blue-servos-silver-dome-portrait.jpg",
+  "category": "detail",
+  "title": "Portrait, camo and servos",
+  "note": "Tight vertical crop of the working hardware."
+ },
+ {
+  "stem": "strike-vehicle-bed-edge-spare-tire-and-camo-panel-tilted-frame",
+  "full": "assets/web/strike-vehicle-bed-edge-spare-tire-and-camo-panel-tilted-frame.jpg",
+  "thumb": "assets/web/thumbs/strike-vehicle-bed-edge-spare-tire-and-camo-panel-tilted-frame.jpg",
+  "category": "detail",
+  "title": "Bed edge, tilted",
+  "note": "Abstract texture frame for backgrounds."
+ },
+ {
+  "stem": "operator-soldier-in-camo-with-pistol-grip-controller-on-truck-bed",
+  "full": "assets/web/operator-soldier-in-camo-with-pistol-grip-controller-on-truck-bed.jpg",
+  "thumb": "assets/web/thumbs/operator-soldier-in-camo-with-pistol-grip-controller-on-truck-bed.jpg",
+  "category": "operations",
+  "title": "Operator with hand controller",
+  "note": "Soldier in camo holding the pistol-grip radio on the bed."
+ },
+ {
+  "stem": "control-console-black-joystick-red-buttons-on-camo-vehicle",
+  "full": "assets/web/control-console-black-joystick-red-buttons-on-camo-vehicle.jpg",
+  "thumb": "assets/web/thumbs/control-console-black-joystick-red-buttons-on-camo-vehicle.jpg",
+  "category": "operations",
+  "title": "The control console",
+  "note": "Red thumb-sticks, toggles, status display."
+ },
+ {
+  "stem": "strike-command-station-laptop-relay-board-and-joystick-on-truck-bed",
+  "full": "assets/web/strike-command-station-laptop-relay-board-and-joystick-on-truck-bed.jpg",
+  "thumb": "assets/web/thumbs/strike-command-station-laptop-relay-board-and-joystick-on-truck-bed.jpg",
+  "category": "operations",
+  "title": "Command station",
+  "note": "Laptop, relay board, joystick pad on the flatbed."
+ },
+ {
+  "stem": "strike-joystick-console-and-relay-wiring-on-truck-bed-closeup",
+  "full": "assets/web/strike-joystick-console-and-relay-wiring-on-truck-bed-closeup.jpg",
+  "thumb": "assets/web/thumbs/strike-joystick-console-and-relay-wiring-on-truck-bed-closeup.jpg",
+  "category": "operations",
+  "title": "Relay wiring detail",
+  "note": "How the console talks to the turret."
+ },
+ {
+  "stem": "screenshot-raspberry-pi-remote-desktop-wayvnc-orange-wallpaper",
+  "full": "assets/web/screenshot-raspberry-pi-remote-desktop-wayvnc-orange-wallpaper.jpg",
+  "thumb": "assets/web/thumbs/screenshot-raspberry-pi-remote-desktop-wayvnc-orange-wallpaper.jpg",
+  "category": "operations",
+  "title": "Raspberry Pi operator desktop",
+  "note": "Remote desktop session to the field computer."
+ },
+ {
+  "stem": "screenshot-steps-txt-mousepad-drone-track-service-commands",
+  "full": "assets/web/screenshot-steps-txt-mousepad-drone-track-service-commands.jpg",
+  "thumb": "assets/web/thumbs/screenshot-steps-txt-mousepad-drone-track-service-commands.jpg",
+  "category": "operations",
+  "title": "Runbook on the desktop",
+  "note": "The systemd commands used to bring the tracker up."
+ },
+ {
+  "stem": "controller-3d-printed-u-frame-ten-red-buttons-toggles-closeup",
+  "full": "assets/web/controller-3d-printed-u-frame-ten-red-buttons-toggles-closeup.jpg",
+  "thumb": "assets/web/thumbs/controller-3d-printed-u-frame-ten-red-buttons-toggles-closeup.jpg",
+  "category": "operations",
+  "title": "3D-printed handset",
+  "note": "Ten-button manual controller built in-house."
+ },
+ {
+  "stem": "ak-trigger-servo-linkage-with-ruler-and-green-sling-closeup",
+  "full": "assets/web/ak-trigger-servo-linkage-with-ruler-and-green-sling-closeup.jpg",
+  "thumb": "assets/web/thumbs/ak-trigger-servo-linkage-with-ruler-and-green-sling-closeup.jpg",
+  "category": "engineering",
+  "title": "Trigger actuator, measured",
+  "note": "Servo horn, pushrod and trigger guard with a steel rule."
+ },
+ {
+  "stem": "ak-receiver-top-down-servo-zip-tied-with-vertical-ruler",
+  "full": "assets/web/ak-receiver-top-down-servo-zip-tied-with-vertical-ruler.jpg",
+  "thumb": "assets/web/thumbs/ak-receiver-top-down-servo-zip-tied-with-vertical-ruler.jpg",
+  "category": "engineering",
+  "title": "Zip-tied prototype",
+  "note": "Fast iteration: servo strapped to the receiver and measured."
+ },
+ {
+  "stem": "ak-rifle-white-bracket-servo-lever-outdoor-closeup-01",
+  "full": "assets/web/ak-rifle-white-bracket-servo-lever-outdoor-closeup-01.jpg",
+  "thumb": "assets/web/thumbs/ak-rifle-white-bracket-servo-lever-outdoor-closeup-01.jpg",
+  "category": "engineering",
+  "title": "White bracket lever",
+  "note": "Outdoor bracket test on gravel."
+ },
+ {
+  "stem": "pdi-6225mg-digital-servo-held-in-hand-workshop-bench",
+  "full": "assets/web/pdi-6225mg-digital-servo-held-in-hand-workshop-bench.jpg",
+  "thumb": "assets/web/thumbs/pdi-6225mg-digital-servo-held-in-hand-workshop-bench.jpg",
+  "category": "engineering",
+  "title": "PDI-6225MG servo",
+  "note": "The actuator used for the trigger units."
+ },
+ {
+  "stem": "electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-01",
+  "full": "assets/web/electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-01.jpg",
+  "thumb": "assets/web/thumbs/electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-01.jpg",
+  "category": "engineering",
+  "title": "Control electronics",
+  "note": "ESP32, MOSFET stage and terminal blocks in a clear case."
+ },
+ {
+  "stem": "stepper-driver-dq542ma-wiring-and-dip-switch-closeup",
+  "full": "assets/web/stepper-driver-dq542ma-wiring-and-dip-switch-closeup.jpg",
+  "thumb": "assets/web/thumbs/stepper-driver-dq542ma-wiring-and-dip-switch-closeup.jpg",
+  "category": "engineering",
+  "title": "DQ542MA stepper driver",
+  "note": "The azimuth drive electronics, wired and documented."
+ },
+ {
+  "stem": "steel-slew-shaft-with-collars-and-spur-gear-held-by-engineer",
+  "full": "assets/web/steel-slew-shaft-with-collars-and-spur-gear-held-by-engineer.jpg",
+  "thumb": "assets/web/thumbs/steel-slew-shaft-with-collars-and-spur-gear-held-by-engineer.jpg",
+  "category": "engineering",
+  "title": "Slew shaft in hand",
+  "note": "Machined collars and spur gear before assembly."
+ },
+ {
+  "stem": "slew-drive-shaft-spur-gear-and-bearing-plate-on-workshop-floor",
+  "full": "assets/web/slew-drive-shaft-spur-gear-and-bearing-plate-on-workshop-floor.jpg",
+  "thumb": "assets/web/thumbs/slew-drive-shaft-spur-gear-and-bearing-plate-on-workshop-floor.jpg",
+  "category": "engineering",
+  "title": "Slew drive test-fit",
+  "note": "Bearing plate clamped for a trial assembly."
+ },
+ {
+  "stem": "aluminium-timing-pulley-held-in-palm-dark-background",
+  "full": "assets/web/aluminium-timing-pulley-held-in-palm-dark-background.jpg",
+  "thumb": "assets/web/thumbs/aluminium-timing-pulley-held-in-palm-dark-background.jpg",
+  "category": "engineering",
+  "title": "Timing pulley",
+  "note": "Small machined part, clearly photographed."
+ },
+ {
+  "stem": "car-wiper-motor-gearbox-actuator-held-over-blue-table",
+  "full": "assets/web/car-wiper-motor-gearbox-actuator-held-over-blue-table.jpg",
+  "thumb": "assets/web/thumbs/car-wiper-motor-gearbox-actuator-held-over-blue-table.jpg",
+  "category": "engineering",
+  "title": "Wiper gearmotor",
+  "note": "Repurposed automotive actuator, early drive concept."
+ },
+ {
+  "stem": "scissor-jack-on-oily-workshop-bench-with-drill-bits",
+  "full": "assets/web/scissor-jack-on-oily-workshop-bench-with-drill-bits.jpg",
+  "thumb": "assets/web/thumbs/scissor-jack-on-oily-workshop-bench-with-drill-bits.jpg",
+  "category": "engineering",
+  "title": "Workshop, unposed",
+  "note": "The real bench: scissor jack, oil, drill bits."
+ },
+ {
+  "stem": "servo-actuator-fitted-into-blue-bracket-by-hand-on-mosaic-floor",
+  "full": "assets/web/servo-actuator-fitted-into-blue-bracket-by-hand-on-mosaic-floor.jpg",
+  "thumb": "assets/web/thumbs/servo-actuator-fitted-into-blue-bracket-by-hand-on-mosaic-floor.jpg",
+  "category": "engineering",
+  "title": "Bracket fit-up",
+  "note": "Hands-on assembly of the servo bracket."
+ },
+ {
+  "stem": "strike-gen2-concept-tubular-frame-eo-ir-gimbal-desert-outpost-render",
+  "full": "assets/web/strike-gen2-concept-tubular-frame-eo-ir-gimbal-desert-outpost-render.jpg",
+  "thumb": "assets/web/thumbs/strike-gen2-concept-tubular-frame-eo-ir-gimbal-desert-outpost-render.jpg",
+  "category": "concepts",
+  "title": "STRIKE Gen 2 concept",
+  "note": "AI concept render: tubular frame, EO/IR gimbal, desert outpost."
+ },
+ {
+  "stem": "strike-turret-fixed-installation-radar-dome-ai-render-mountains-drone",
+  "full": "assets/web/strike-turret-fixed-installation-radar-dome-ai-render-mountains-drone.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-fixed-installation-radar-dome-ai-render-mountains-drone.jpg",
+  "category": "concepts",
+  "title": "Fixed installation with radar",
+  "note": "Concept render pairing the mount with a radar dome."
+ },
+ {
+  "stem": "strike-turret-desert-concrete-base-ai-render-with-drone-overhead",
+  "full": "assets/web/strike-turret-desert-concrete-base-ai-render-with-drone-overhead.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-desert-concrete-base-ai-render-with-drone-overhead.jpg",
+  "category": "concepts",
+  "title": "Desert plinth concept",
+  "note": "Rifle mount on a concrete base, drone overhead."
+ },
+ {
+  "stem": "strike-turret-five-rifles-ai-render-pastel-sky-truck-bed",
+  "full": "assets/web/strike-turret-five-rifles-ai-render-pastel-sky-truck-bed.jpg",
+  "thumb": "assets/web/thumbs/strike-turret-five-rifles-ai-render-pastel-sky-truck-bed.jpg",
+  "category": "concepts",
+  "title": "Pastel dusk render",
+  "note": "Render of the truck-bed mount in soft evening light."
+ },
+ {
+  "stem": "poster-autonomous-cuas-tracked-rover-alpha-01-desert-ai-render",
+  "full": "assets/web/poster-autonomous-cuas-tracked-rover-alpha-01-desert-ai-render.jpg",
+  "thumb": "assets/web/thumbs/poster-autonomous-cuas-tracked-rover-alpha-01-desert-ai-render.jpg",
+  "category": "concepts",
+  "title": "Tracked rover concept sheet",
+  "note": "Concept poster for the ALPHA-01 autonomous C-UAS rover."
+ },
+ {
+  "stem": "poster-strike-m-mobile-cuas-system-spec-sheet-cost-3-50-lakh",
+  "full": "assets/web/poster-strike-m-mobile-cuas-system-spec-sheet-cost-3-50-lakh.jpg",
+  "thumb": "assets/web/thumbs/poster-strike-m-mobile-cuas-system-spec-sheet-cost-3-50-lakh.jpg",
+  "category": "concepts",
+  "title": "STRIKE-M spec sheet",
+  "note": "The written requirement, features and cost, photographed in situ."
+ },
+ {
+  "stem": "poster-shield-and-strike-spec-sheet-sdr-detector-ai-hard-kill",
+  "full": "assets/web/poster-shield-and-strike-spec-sheet-sdr-detector-ai-hard-kill.jpg",
+  "thumb": "assets/web/thumbs/poster-shield-and-strike-spec-sheet-sdr-detector-ai-hard-kill.jpg",
+  "category": "concepts",
+  "title": "SHIELD & STRIKE spec sheet",
+  "note": "SDR detection plus AI hard-kill requirement sheet."
+ },
+ {
+  "stem": "anmay-emblem-black-trishul-damru-spiked-wheel-with-dand",
+  "full": "assets/web/anmay-emblem-black-trishul-damru-spiked-wheel-with-dand.jpg",
+  "thumb": "assets/web/thumbs/anmay-emblem-black-trishul-damru-spiked-wheel-with-dand.jpg",
+  "category": "brand",
+  "title": "Anmay emblem (WIP)",
+  "note": "Trishul, damru and spiked wheel, drawn as black line art."
+ },
+ {
+  "stem": "robonut-logo-honeycomb-hexagons-with-nut-wordmark-black-bg",
+  "full": "assets/web/robonut-logo-honeycomb-hexagons-with-nut-wordmark-black-bg.png",
+  "thumb": "assets/web/thumbs/robonut-logo-honeycomb-hexagons-with-nut-wordmark-black-bg.jpg",
+  "category": "brand",
+  "title": "Robonut lockup",
+  "note": "Honeycomb mark with the hand-lettered NUT wordmark."
+ },
+ {
+  "stem": "robonut-logo-honeycomb-hexagons-six-orange-one-green-on-white",
+  "full": "assets/web/robonut-logo-honeycomb-hexagons-six-orange-one-green-on-white.jpg",
+  "thumb": "assets/web/thumbs/robonut-logo-honeycomb-hexagons-six-orange-one-green-on-white.jpg",
+  "category": "brand",
+  "title": "Robonut mark",
+  "note": "The honeycomb mark alone, on white."
+ }
+]
