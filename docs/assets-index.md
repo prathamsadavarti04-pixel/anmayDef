@@ -1,0 +1,238 @@
+# Anmay Defence – asset index
+
+Every file under `assets/`, renamed from its original camera/WhatsApp name to a
+content description. `reviewed` = the pixels/bytes were opened and described here;
+`pending` = only a Git LFS pointer is present, so the name is inferred from folder,
+date and neighbouring reviewed files.
+
+- `ak-buttstock-end-with-38-marking-and-ruler-measure.jpg` — Buttstock end with the number 38 and a ruler **[reviewed; engineering; rifle; ak; buttstock; 38-marking; ruler; measurement; portrait]**
+- `ak-pistol-grip-height-measured-ruler-over-servo-mount.jpg` — Measuring AK pistol grip height with a ruler **[reviewed; engineering; rifle; ak; pistol-grip; ruler; servo-mount; landscape]**
+- `ak-pistol-grip-ruler-measure-with-servo-bracket-and-laptop.jpg` — Ruler across the AK pistol grip with servo bracket and laptop **[reviewed; engineering; rifle; ak; pistol-grip; ruler; servo; laptop; workshop]**
+- `ak-receiver-blue-servo-zip-tied-with-wire-bundle-portrait.jpg` — AK receiver with blue servo zip-tied and wire bundle **[reviewed; engineering; rifle; ak; servo; zip-tie; wiring; receiver; top-down; portrait]**
+- `ak-receiver-servo-trigger-linkage-and-magazine-closeup-landscape.jpg` — Close-up of the servo trigger linkage and magazine **[reviewed; engineering; rifle; ak; servo; trigger; magazine; closeup; landscape]**
+- `ak-receiver-servo-with-ruler-and-brass-plate-landscape.jpg` — Landscape top view of the AK servo with ruler and brass plate **[reviewed; engineering; rifle; ak; servo; ruler; brass-plate; top-view; landscape]**
+- `ak-receiver-top-down-servo-zip-tied-with-vertical-ruler.jpg` — Top-down AK receiver with servo and vertical ruler **[reviewed; engineering; rifle; ak; servo; ruler; top-down; zip-tie; workshop]**
+- `ak-rifle-aluminium-bracket-servo-mount-top-view-on-white-bed.jpg` — Top view of the AK with aluminium bracket and servo on a white bed **[reviewed; engineering; rifle; ak; aluminium-bracket; servo; top-view; mattress; prototype]**
+- `ak-rifle-buttstock-length-measured-with-steel-ruler-portrait.jpg` — Measuring an AK buttstock with a steel ruler **[reviewed; engineering; rifle; ak; buttstock; measurement; ruler; prototype; workshop; portrait]**
+- `ak-rifle-servo-mount-top-view-with-tools-on-white-mattress.jpg` — Top view of the AK servo mount with tools on a white mattress **[reviewed; engineering; rifle; ak; servo-mount; tools; top-view; prototype]**
+- `ak-rifle-top-view-with-servo-actuator-and-ruler-portrait.jpg` — Top view of the AK rifle with servo actuator and ruler **[reviewed; engineering; rifle; ak; servo; ruler; top-view; portrait; full-length]**
+- `ak-rifle-white-bracket-servo-lever-outdoor-closeup-01.jpg` — AK rifle with white bracket and servo lever outdoors **[reviewed; engineering; rifle; ak; white-bracket; servo; lever; outdoor; gravel; closeup]**
+- `ak-rifle-white-bracket-servo-lever-outdoor-closeup-02.jpg` — Second frame of the white bracket servo assembly **[reviewed; engineering; rifle; ak; white-bracket; servo; lever; outdoor; closeup; near-duplicate]**
+- `ak-servo-bracket-trigger-linkage-closeup-on-white-sheet.jpg` — Close-up of the servo bracket and trigger linkage **[reviewed; engineering; rifle; ak; servo-bracket; trigger; closeup; tools; prototype]**
+- `ak-trigger-servo-horn-linkage-from-front-portrait.jpg` — Front view of the AK trigger servo horn linkage **[reviewed; engineering; rifle; ak; servo-horn; trigger; front-view; portrait]**
+- `ak-trigger-servo-linkage-with-ruler-and-green-sling-closeup.jpg` — Close-up of the AK trigger servo linkage with ruler **[reviewed; engineering; rifle; ak; servo; trigger; linkage; ruler; closeup; prototype]**
+- `aluminium-timing-pulley-held-in-palm-dark-background.jpg` — Small aluminium timing pulley in a palm **[reviewed; engineering; part; pulley; aluminium; machined; hand; dark-background]**
+- `aluminium-timing-pulley-with-grub-screw-in-palm-02.jpg` — Aluminium timing pulley showing the grub screw **[reviewed; engineering; part; pulley; grub-screw; machined; hand; second-angle]**
+- `anmay-drone-defence-video-script-8-features-roadmap-and-investor-endtag-docx.docx` — Anmay Drone Defence video script and feature storyboard (DOCX) **[reviewed; doc; document; script; storyboard; features; roadmap; docx; verified-text]**
+- `cad-strike-gen1-turret-exploded-assembly-labelled-diagram.jpg` — Exploded CAD diagram of the STRIKE Gen1 five-rifle turret with labelled parts **[reviewed; engineering; cad; diagram; turret; five-rifle; stepper; dome; exploded-view; labelled]**
+- `car-wiper-motor-gearbox-actuator-held-over-blue-table.jpg` — Wiper gearmotor actuator held over a blue table **[reviewed; engineering; part; motor; gearbox; actuator; hand; blue-table; repurposed]**
+- `electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-01.jpg` — Clear electronics enclosure with ESP32, MOSFET and LED glow **[reviewed; engineering; electronics; enclosure; esp32; mosfet; led; hand-held; indoor; prototype]**
+- `electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-02.jpg` — Second burst frame of the clear electronics enclosure **[reviewed; engineering; electronics; enclosure; esp32; led; burst-series; indoor]**
+- `electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-03.jpg` — Third burst frame of the clear electronics enclosure **[reviewed; engineering; electronics; enclosure; esp32; led; burst-series; indoor]**
+- `electronics-enclosure-clear-box-esp32-mosfet-led-glow-burst-04.jpg` — Fourth burst frame of the clear electronics enclosure **[reviewed; engineering; electronics; enclosure; esp32; led; burst-series; indoor]**
+- `four-camouflage-ak-rifles-in-a-row-with-servo-actuators.jpg` — Four camo AK rifles in a row with servo actuators **[reviewed; hero; rifle; ak; camo; servo; row-arrangement; four-units; bench]**
+- `pdi-6225mg-digital-servo-held-in-hand-workshop-bench.jpg` — PDI-6225MG digital servo held in a hand at the workshop bench **[reviewed; engineering; servo; pdi-6225mg; hardware; hand; workshop; closeup]**
+- `rifle-barrels-and-sunburst-through-clouds-blue-sky-wide.jpg` — Wider frame of rifle barrels against the sunburst **[reviewed; detail; rifle; barrels; sky; sun; cloud; backlit; looking-up]**
+- `rifle-barrels-silhouetted-against-sunlit-cloud-rays-in-blue-sky.jpg` — Rifle barrels silhouetted against sunlit cloud rays **[reviewed; detail; rifle; barrels; sky; sun; cloud; backlit; looking-up; moody]**
+- `scissor-jack-on-oily-workshop-bench-with-drill-bits.jpg` — Scissor jack on an oily workshop bench **[reviewed; support; part; scissor-jack; workshop; tool; bench; industrial]**
+- `servo-actuator-fitted-into-blue-bracket-by-hand-on-mosaic-floor.jpg` — Hand fitting a black servo into a blue metal bracket **[reviewed; engineering; servo; bracket; prototype; assembly; hand; closeup; portrait]**
+- `servo-and-aluminium-bracket-outdoor-bench-with-tape-measure.jpg` — Servo and aluminium bracket outdoors with a tape measure **[reviewed; engineering; servo; aluminium-bracket; tape-measure; outdoor; gravel; closeup]**
+- `slew-drive-shaft-spur-gear-and-bearing-plate-on-workshop-floor.jpg` — Slew drive with spur gear and bearing plate on the floor **[reviewed; engineering; part; slew-drive; spur-gear; bearing; assembly; workshop-floor]**
+- `steel-slew-shaft-with-collars-and-spur-gear-held-by-engineer.jpg` — Engineer holding the steel slew shaft with spur gear **[reviewed; engineering; part; shaft; spur-gear; collars; machined; engineer; workshop-floor]**
+- `stepper-driver-dq542ma-wiring-and-dip-switch-closeup.jpg` — Stepper driver DQ542MA with wiring close-up **[reviewed; engineering; electronics; stepper-driver; dq542ma; wiring; closeup; workshop]**
+- `strike-command-station-laptop-joystick-console-on-truck-bed-02.jpg` — Second frame of the truck-bed command station **[reviewed; product; command-station; laptop; joystick-console; relay-board; truck-bed]**
+- `strike-command-station-laptop-relay-board-and-joystick-on-truck-bed.jpg` — Laptop, relay board and joystick laid out on the truck bed **[reviewed; hero; command-station; laptop; relay-board; joystick; truck-bed; wiring]**
+- `strike-gen1-field-test-clip-2025-09-06-seq018-pending-review.mp4` — STRIKE Gen1 field test clip, 6 September 2025 **[pending; video; video; field-test; pending-review; 2025-09-06]**
+- `strike-gen1-field-test-clip-2025-09-06-seq019-pending-review.mp4` — STRIKE Gen1 field test clip seq 19 **[pending; video; video; field-test; pending-review; 2025-09-06]**
+- `strike-gen1-prototype-clip-2025-07-14-seq001-pending-review.mp4` — STRIKE Gen1 prototype clip, 14 July 2025 **[pending; video; video; prototype; pending-review; 2025-07-14]**
+- `strike-gen1-prototype-clip-2025-07-14-seq002-pending-review.mp4` — STRIKE Gen1 prototype clip seq 2 **[pending; video; video; prototype; pending-review; 2025-07-14]**
+- `strike-gen1-prototype-clip-2025-07-14-seq003-pending-review.mp4` — STRIKE Gen1 prototype clip seq 3 **[pending; video; video; prototype; pending-review; 2025-07-14]**
+- `strike-gen1-prototype-clip-2025-07-14-seq004-pending-review.mp4` — STRIKE Gen1 prototype clip seq 4 **[pending; video; video; prototype; pending-review; 2025-07-14]**
+- `strike-gen1-prototype-clip-2025-07-14-seq005-pending-review.mp4` — STRIKE Gen1 prototype clip seq 5 **[pending; video; video; prototype; pending-review; 2025-07-14]**
+- `strike-gen1-prototype-clip-2025-07-14-seq006-pending-review.mp4` — STRIKE Gen1 prototype clip seq 6 **[pending; video; video; prototype; pending-review; 2025-07-14]**
+- `strike-gen1-prototype-clip-2025-07-27-seq001-pending-review.mp4` — STRIKE Gen1 prototype clip, 27 July 2025 **[pending; video; video; prototype; pending-review; 2025-07-27; mechanics]**
+- `strike-gen1-prototype-clip-2025-07-27-seq002-pending-review.mp4` — STRIKE Gen1 prototype clip, 27 July 2025 seq 2 **[pending; video; video; prototype; pending-review; 2025-07-27]**
+- `strike-gen1-prototype-clip-2025-07-27-seq003-pending-review.mp4` — STRIKE Gen1 prototype clip, 27 July 2025 seq 3 **[pending; video; video; prototype; pending-review; 2025-07-27]**
+- `strike-gen1-prototype-clip-2025-07-27-seq005-pending-review.mp4` — STRIKE Gen1 prototype clip, 27 July 2025 seq 5 **[pending; video; video; prototype; pending-review; 2025-07-27]**
+- `strike-gen1-scissor-jack-assembly-clip-2025-07-30-seq006-pending-review.mp4` — STRIKE Gen1 elevation mechanism clip, 30 July 2025 **[pending; video; video; prototype; pending-review; 2025-07-30; elevation]**
+- `strike-gen1-scissor-jack-assembly-clip-2025-07-30-seq007-pending-review.mp4` — STRIKE Gen1 elevation mechanism clip seq 7 **[pending; video; video; prototype; pending-review; 2025-07-30]**
+- `strike-gen1-slew-gearbox-clip-2025-08-01-seq013-pending-review.mp4` — STRIKE Gen1 slew gearbox clip, 1 August 2025 **[pending; video; video; prototype; pending-review; 2025-08-01; drive]**
+- `strike-gen1-slew-gearbox-clip-2025-08-01-seq020-pending-review.mp4` — STRIKE Gen1 slew gearbox clip seq 20 **[pending; video; video; prototype; pending-review; 2025-08-01]**
+- `strike-gen1-slew-test-clip-2025-07-29-seq006-pending-review.mp4` — STRIKE Gen1 drive test clip, 29 July 2025 **[pending; video; video; prototype; pending-review; 2025-07-29; drive]**
+- `strike-gen1-slew-test-clip-2025-07-29-seq007-pending-review.mp4` — STRIKE Gen1 drive test clip seq 7 **[pending; video; video; prototype; pending-review; 2025-07-29]**
+- `strike-gen1-slew-test-clip-2025-07-29-seq009-pending-review.mp4` — STRIKE Gen1 drive test clip seq 9 **[pending; video; video; prototype; pending-review; 2025-07-29]**
+- `strike-gen1-slew-test-clip-2025-07-29-seq010-pending-review.mp4` — STRIKE Gen1 drive test clip seq 10 **[pending; video; video; prototype; pending-review; 2025-07-29]**
+- `strike-gen1-slew-test-clip-2025-07-29-seq011-pending-review.mp4` — STRIKE Gen1 drive test clip seq 11 **[pending; video; video; prototype; pending-review; 2025-07-29]**
+- `strike-gen1-slew-test-clip-2025-07-29-seq012-pending-review.mp4` — STRIKE Gen1 drive test clip seq 12 **[pending; video; video; prototype; pending-review; 2025-07-29; longest]**
+- `strike-gen1-slew-test-clip-2025-07-29-seq013-pending-review.mp4` — STRIKE Gen1 drive test clip seq 13 **[pending; video; video; prototype; pending-review; 2025-07-29]**
+- `strike-gen1-stepper-driver-clip-2025-08-02-seq000-pending-review.mp4` — STRIKE Gen1 stepper driver clip, 2 August 2025 **[pending; video; video; prototype; pending-review; 2025-08-02; stepper]**
+- `strike-gen1-stepper-driver-clip-2025-08-02-seq003-pending-review.mp4` — STRIKE Gen1 stepper clip seq 3 **[pending; video; video; prototype; pending-review; 2025-08-02]**
+- `strike-gen1-stepper-driver-clip-2025-08-02-seq004-pending-review.mp4` — STRIKE Gen1 stepper clip seq 4 **[pending; video; video; prototype; pending-review; 2025-08-02; longest]**
+- `strike-gen1-stepper-driver-clip-2025-08-02-seq005-pending-review.mp4` — STRIKE Gen1 stepper clip seq 5 **[pending; video; video; prototype; pending-review; 2025-08-02]**
+- `strike-gen1-turret-five-rifle-mount-cutout-black-bg-front-quarter.png` — STRIKE Gen1 five-rifle mount cut out on black, front quarter view **[reviewed; product; turret; five-rifle; cutout; black-bg; front-quarter; camera-module; servo]**
+- `strike-gen1-turret-five-rifle-mount-cutout-black-bg-left-profile.png` — STRIKE Gen1 five-rifle mount cut out on black, left profile **[reviewed; product; turret; five-rifle; cutout; black-bg; left-profile; servo; camo]**
+- `strike-gen1-turret-five-rifle-mount-cutout-white-bg-camo-box.png` — Cutout of the five-rifle mount with camera module on white **[reviewed; product; turret; five-rifle; cutout; white-bg; camera-module; camo-box]**
+- `strike-gen1-turret-five-rifle-mount-cutout-white-bg-front-quarter.png` — STRIKE Gen1 five-rifle mount on white background, front quarter **[reviewed; product; turret; five-rifle; cutout; white-bg; front-quarter; camera-module]**
+- `strike-joystick-console-and-relay-wiring-on-truck-bed-closeup.jpg` — Close-up of the joystick console and relay wiring **[reviewed; detail; command-station; joystick-console; relay-board; red-buttons; closeup]**
+- `strike-mast-five-rifle-mount-viewed-from-truck-bed-with-driver-in-cab.jpg` — Five-rifle mount seen from the truck bed beside the cab **[reviewed; product; vehicle; truck; mast; five-rifle; from-bed; cab; driver; tree-leaves]**
+- `strike-turret-in-foreground-with-tank-and-field-midground.jpg` — Turret foreground with a camouflaged tank in the field **[reviewed; support; turret; foreground; tank; field; camo; overcast; portrait]**
+- `strike-vehicle-mast-erection-clip-2025-08-03-seq004-pending-review.mp4` — Clip of the mast on the vehicle, 3 August 2025 **[pending; video; video; vehicle; mast; pending-review; 2025-08-03]**
+- `strike-vehicle-on-barracks-road-dusk-overhead-drone-two-people-talking.jpg` — Overhead view of the camo STRIKE truck on a barracks road with two people **[reviewed; hero; vehicle; truck; camo; mast; road; barracks; overhead; drone-shot; people]**
+- `strike-vehicle-on-barracks-road-overhead-drone-closer-frame.jpg` — Closer overhead view of the STRIKE truck on the barracks road **[reviewed; product; vehicle; truck; camo; mast; road; barracks; overhead; drone-shot]**
+- `strike-vehicle-on-barracks-road-overhead-drone-mid-frame.jpg` — Overhead view of the STRIKE truck on a barracks road, mid frame **[reviewed; product; vehicle; truck; camo; mast; road; barracks; overhead; drone-shot]**
+- `strike-vehicle-on-barracks-road-overhead-drone-wide-two-people.jpg` — Wide overhead view of the camo STRIKE truck on a barracks road **[reviewed; hero; vehicle; truck; camo; mast; road; barracks; overhead; drone-shot; wide]**
+- `strike-vehicle-rifle-mast-seen-looking-up-past-tree-canopy.jpg` — Looking up at the rifle mast past a tree canopy **[reviewed; support; vehicle; truck; mast; rifle-mount; looking-up; tree-canopy; overcast]**
+- `strike-vehicle-side-profile-spare-wheel-on-bed-under-blue-sky.jpg` — Side profile of the STRIKE truck with spare wheel and raised mast **[reviewed; hero; vehicle; truck; side-profile; spare-wheel; mast; blue-sky; stickers]**
+- `strike-vehicle-test-clip-2025-10-01-180630-camera-pending-review.mp4` — Camera clip from 1 October 2025 evening **[pending; video; video; vehicle; pending-review; 2025-10-01; camera-original]**
+- `strike-vehicle-test-clip-2025-10-04-seq016-pending-review.mp4` — STRIKE vehicle clip, 4 October 2025 **[pending; video; video; vehicle; pending-review; 2025-10-04; large]**
+- `strike-vehicle-test-clip-2025-10-04-seq135-pending-review.mp4` — STRIKE vehicle clip seq 135 **[pending; video; video; vehicle; pending-review; 2025-10-04]**
+- `strike-vehicle-test-clip-2026-01-10-seq006-pending-review.mp4` — STRIKE clip from 10 January 2026 **[pending; video; video; vehicle; pending-review; 2026-01-10; shortlist-source]**
+- `three-rifle-barrels-against-cloud-and-sunbeam-blue-sky.jpg` — Three rifle barrels against a cloud and sunbeam **[reviewed; detail; rifle; barrels; sky; cloud; backlit; looking-up]**
+- `trigger-servo-horn-measured-with-ruler-held-in-hand.jpg` — Ruler held against the trigger servo horn **[reviewed; engineering; rifle; ak; servo-horn; ruler; measurement; hand; closeup]**
+- `trigger-servo-horn-measured-with-ruler-second-frame.jpg` — Second frame of the trigger servo horn measurement **[reviewed; reference; rifle; ak; servo-horn; ruler; measurement; hand; closeup; near-duplicate]**
+- `anmay-emblem-black-trishul-damru-spiked-wheel-with-dand.png` — Anmay Defence emblem: trishul, damru and spiked wheel **[reviewed; brand; brand; emblem; logo; trishul; damru; black-white; vector; wip]**
+- `cad-strike-gen1-turret-exploded-assembly-labelled-diagram-duplicate.jpg` — Duplicate of the exploded CAD diagram of the turret **[reviewed; engineering; cad; diagram; turret; duplicate; curated-folder]**
+- `robonut-logo-honeycomb-hexagons-six-orange-one-green-on-white.jpg` — Robonut honeycomb hexagon mark on white **[reviewed; brand; brand; logo; robonut; honeycomb; hexagons; white-bg; icon-only]**
+- `robonut-logo-honeycomb-hexagons-with-nut-wordmark-black-bg.png` — Robonut logo: honeycomb hexagons with NUT wordmark **[reviewed; brand; brand; logo; robonut; honeycomb; hexagons; wordmark; black-bg]**
+- `strike-changes-deck-11mb-pending-review-pptx.pptx` — STRIKE changes presentation deck **[pending; doc; document; pptx; deck; changes; shortlist; pending-review]**
+- `strike-gen1-turret-five-rifle-mount-cutout-black-bg-front-profile-hires.png` — High-resolution cutout of the five-rifle mount on black **[reviewed; product; turret; five-rifle; cutout; black-bg; front-profile; high-resolution]**
+- `strike-gen1-turret-five-rifle-mount-cutout-black-bg-right-profile-small.png` — Small cutout of the five-rifle turret in right profile **[reviewed; product; turret; five-rifle; cutout; black-bg; right-profile; small]**
+- `strike-next-gen-design-part1-6mb-pending-review-zip.zip` — Next-generation design archive, part 1 **[pending; doc; archive; zip; cad; next-gen; pending-review]**
+- `strike-next-gen-design-part2-6mb-pending-review-zip.zip` — Next-generation design archive, part 2 **[pending; doc; archive; zip; cad; next-gen; pending-review]**
+- `strike-shortlist-reel-01-11mb-pending-review.mp4` — Shortlisted reel 1 **[pending; video; video; shortlist; reel; pending-review; unnamed-original]**
+- `strike-shortlist-reel-02-1mb-short-clip-pending-review.mp4` — Shortlisted reel 2 (short) **[pending; video; video; shortlist; reel; pending-review; short-clip]**
+- `strike-shortlist-reel-03-4mb-pending-review.mp4` — Shortlisted reel 3 **[pending; video; video; shortlist; reel; pending-review]**
+- `strike-shortlist-reel-04-17mb-pending-review.mp4` — Shortlisted reel 4 **[pending; video; video; shortlist; reel; pending-review; long]**
+- `strike-shortlist-reel-05-5mb-pending-review.mp4` — Shortlisted reel 5 **[pending; video; video; shortlist; reel; pending-review]**
+- `strike-shortlist-reel-06-15mb-pending-review.mp4` — Shortlisted reel 6 **[pending; video; video; shortlist; reel; pending-review]**
+- `strike-shortlist-reel-07-7mb-pending-review.mp4` — Shortlisted reel 7 **[pending; video; video; shortlist; reel; pending-review]**
+- `strike-shortlist-reel-08-37mb-longest-pending-review.mp4` — Shortlisted reel 8 (longest) **[pending; video; video; shortlist; reel; pending-review; longest]**
+- `strike-shortlisted-trial-clip-2025-07-29-seq008-pending-review.mp4` — Shortlisted trial clip, 29 July 2025 **[pending; video; video; shortlist; pending-review; 2025-07-29]**
+- `strike-shortlisted-trial-clip-2026-01-10-seq005-pending-review.mp4` — Shortlisted trial clip, 10 January 2026 **[pending; video; video; shortlist; pending-review; 2026-01-10]**
+- `strike-trial-footages-compilation-134mb-pending-review.mp4` — Compilation of STRIKE trial footage **[pending; video; video; compilation; trial; shortlist; hero-potential; pending-review; large]**
+- `strike-vehicle-front-quarter-with-mast-near-portico-buildings.jpg` — Front quarter of the STRIKE truck near portico buildings **[reviewed; hero; vehicle; truck; mast; front-quarter; buildings; overcast; landscape]**
+- `strike-vehicle-on-barracks-road-three-people-beside-blue-container.jpg` — STRIKE truck on the barracks road with three people **[reviewed; product; vehicle; truck; mast; barracks; side-view; three-people]**
+- `strike-vehicle-rear-quarter-barracks-road-two-people-overhead.jpg` — Overhead rear quarter of the STRIKE truck with two people **[reviewed; product; vehicle; truck; camo; mast; barracks; overhead; two-people]**
+- `strike-vehicle-rear-quarter-on-barracks-road-three-people-overhead.jpg` — Rear quarter overhead view of the STRIKE truck with three people **[reviewed; hero; vehicle; truck; camo; mast; barracks; overhead; three-people; rear-quarter]**
+- `strike-vehicle-rear-with-raised-mast-on-barracks-road-portrait.jpg` — Rear of the STRIKE truck with raised mast on a barracks road **[reviewed; product; vehicle; truck; mast; rear-view; portrait; barracks; people]**
+- `poster-autonomous-cuas-tracked-rover-alpha-01-desert-ai-render.jpg` — Concept poster of an autonomous tracked C-UAS rover with a rifle turret **[reviewed; poster; poster; concept; ai-render; ugv; tracked-rover; rifle-turret; desert; marketing]**
+- `strike-field-console-laptop-foreground-with-truck-mast-and-field.jpg` — Laptop console in the foreground with the truck mast and field beyond **[reviewed; hero; command-station; laptop; foreground; truck; mast; field; panorama; wide]**
+- `strike-gen1-camera-clip-2026-09-17-113230-pending-review.mp4` — Camera clip from 17 September 2026 **[pending; video; video; setup; pending-review; 2026-09-17; camera-original]**
+- `strike-gen1-camera-clip-2026-09-18-103217-trial-morning-pending-review.mp4` — Trial-morning camera clip, 18 September 2026 **[pending; video; video; trial; pending-review; 2026-09-18; camera-original; large]**
+- `strike-gen1-camera-clip-2026-09-18-111359-pending-review.mp4` — Camera clip 11:13, 18 September 2026 **[pending; video; video; trial; pending-review; 2026-09-18; camera-original]**
+- `strike-gen1-camera-clip-2026-09-18-111428-pending-review.mp4` — Camera clip 11:14, 18 September 2026 **[pending; video; video; trial; pending-review; 2026-09-18; camera-original; short-clip]**
+- `strike-gen1-camera-clip-2026-09-18-111435-long-pending-review.mp4` — Long camera clip 11:14, 18 September 2026 **[pending; video; video; trial; pending-review; 2026-09-18; camera-original; large]**
+- `strike-gen1-camera-clip-2026-09-18-112150-pending-review.mp4` — Camera clip 11:21, 18 September 2026 **[pending; video; video; trial; pending-review; 2026-09-18; camera-original]**
+- `strike-gen1-camera-clip-2026-09-18-162836-late-afternoon-pending-review.mp4` — Late-afternoon camera clip, 18 September 2026 **[pending; video; video; trial; pending-review; 2026-09-18; late-afternoon; camera-original]**
+- `strike-gen1-dji-drone-flight-2026-09-18-104236-seq411-pending-review.mp4` — DJI drone flight 10:42, sequence 411 **[pending; video; video; drone-footage; dji; aerial; pending-review; 2026-09-18]**
+- `strike-gen1-dji-drone-flight-2026-09-18-104336-seq412-pending-review.mp4` — DJI drone flight 10:43, sequence 412 **[pending; video; video; drone-footage; dji; aerial; pending-review; 2026-09-18; large]**
+- `strike-gen1-dji-drone-flight-2026-09-18-104526-seq413-longest-439mb-pending-review.mp4` — Longest DJI drone flight, sequence 413 **[pending; video; video; drone-footage; dji; aerial; pending-review; 2026-09-18; largest; hero-potential]**
+- `strike-gen1-dji-drone-flight-2026-09-18-104626-seq414-pending-review.mp4` — DJI drone flight 10:46, sequence 414 **[pending; video; video; drone-footage; dji; aerial; pending-review; 2026-09-18]**
+- `strike-gen1-field-clip-2026-10-05-seq044-pending-review.mp4` — Field clip, 5 October 2026 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq046-pending-review.mp4` — Field clip seq 46 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq047-pending-review.mp4` — Field clip seq 47 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq048-pending-review.mp4` — Field clip seq 48 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq049-pending-review.mp4` — Field clip seq 49 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq050-pending-review.mp4` — Field clip seq 50 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq051-pending-review.mp4` — Field clip seq 51 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq053-pending-review.mp4` — Field clip seq 53 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq054-pending-review.mp4` — Field clip seq 54 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq055-pending-review.mp4` — Field clip seq 55 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq056-pending-review.mp4` — Field clip seq 56 **[pending; video; video; field; pending-review; 2026-10-05]**
+- `strike-gen1-field-clip-2026-10-05-seq057-longest-pending-review.mp4` — Longest field clip of 5 October 2026 **[pending; video; video; field; pending-review; 2026-10-05; longest]**
+- `strike-gen1-firing-demonstration-pending-review.mp4` — STRIKE Gen1 firing demonstration video **[pending; video; video; firing; gen1; high-priority; pending-review]**
+- `strike-gen1-mast-clip-2026-10-05-seq035-short-pending-review.mp4` — Short mast clip, 5 October 2026 **[pending; video; video; mast; pending-review; 2026-10-05; short-clip]**
+- `strike-gen1-rifle-mounting-automation-clip-2026-07-05-pending-review.mp4` — Rifle mounting automation video (duplicate copy) **[pending; video; video; automation; rifle-mounting; duplicate; pending-review; 2026-07-05]**
+- `strike-gen1-trial-clip-2026-09-18-seq012-pending-review.mp4` — STRIKE Gen1 trial clip, 18 September 2026 **[pending; video; video; trial; gen1; pending-review; 2026-09-18]**
+- `strike-gen1-trial-clip-2026-09-18-seq013-pending-review.mp4` — STRIKE Gen1 trial clip seq 13 **[pending; video; video; trial; gen1; pending-review; 2026-09-18]**
+- `strike-gen1-trial-clip-2026-09-19-seq002-pending-review.mp4` — STRIKE Gen1 clip, 19 September 2026 **[pending; video; video; trial; gen1; pending-review; 2026-09-19]**
+- `strike-gen1-trial-clip-2026-09-19-seq003-pending-review.mp4` — STRIKE Gen1 clip seq 3, 19 September 2026 **[pending; video; video; trial; gen1; pending-review; 2026-09-19]**
+- `strike-mast-three-rifle-mount-and-spare-wheel-against-sky.jpg` — Three-rifle mount above the spare wheel **[reviewed; product; mast; three-rifle; spare-wheel; sky; closeup; portrait]**
+- `strike-mast-three-rifle-mount-dome-and-led-display-against-cloud.jpg` — Mast with three rifles, dome and LED display against cloud **[reviewed; product; mast; three-rifle; dome; led-display; cloud; portrait]**
+- `strike-mast-three-rifle-mount-dome-and-spare-wheel-blue-sky.jpg` — Three-rifle mount and dome above the spare wheel **[reviewed; product; mast; three-rifle; dome; spare-wheel; blue-sky; portrait]**
+- `strike-mast-three-rifles-and-led-display-over-clouded-sky.jpg` — Three-rifle mount and LED display against clouded sky **[reviewed; product; mast; three-rifle; led-display; clouded-sky; portrait]**
+- `strike-mast-three-rifles-led-display-and-antenna-low-angle.jpg` — Mast with three rifles, LED display and antenna **[reviewed; product; mast; three-rifle; led-display; antenna; low-angle; portrait]**
+- `strike-product-catalogue-gen1-and-gen2-35mb-pending-review-pptx.pptx` — STRIKE product catalogue for Gen1 and Gen2 **[pending; doc; document; pptx; catalogue; strike-gen1; strike-gen2; high-priority; pending-review]**
+- `strike-product-video-storyboard-13-scenes-gen1-gen2-and-messaging-rules-docx.docx` — STRIKE product video storyboard and messaging rules (DOCX) **[reviewed; doc; document; script; storyboard; strike-gen1; strike-gen2; specs; messaging-rules; docx; verified-text]**
+- `strike-turret-desert-concrete-base-ai-render-with-drone-overhead.webp` — AI render of the turret on a desert plinth with a drone overhead **[reviewed; poster; turret; concept; ai-render; desert; concrete-base; drone; mountains]**
+- `strike-turret-five-rifles-black-stocks-on-truck-bed-overcast.jpeg` — Five-rifle turret with black stocks mounted on the truck bed **[reviewed; product; turret; five-rifle; black-stocks; truck-bed; silver-drum; overcast]**
+- `strike-turret-five-rifles-with-tan-slings-rear-view-square-crop.jpeg` — Rear view of the five-rifle turret with tan slings **[reviewed; product; turret; five-rifle; rear-view; slings; camo; square-crop; white-sky]**
+- `strike-turret-fixed-installation-radar-dome-ai-render-mountains-drone.png` — AI render of a fixed turret with radar dome in the mountains **[reviewed; poster; turret; concept; ai-render; radar; dome; fixed-installation; mountains; drone]**
+- `strike-turret-four-rifles-with-operator-crouched-on-truck-bed-field.jpg` — Four-rifle turret with an operator crouched on the truck bed **[reviewed; hero; turret; four-rifle; operator; truck-bed; field; road; overcast]**
+- `strike-turret-three-rifles-dome-blue-sky-with-cloud-ink-board.jpg` — Three-rifle turret with silver dome against blue sky **[reviewed; product; turret; three-rifle; dome; blue-sky; portrait; cloud-ink-signboard]**
+- `strike-vehicle-aerial-front-view-shed-and-soldiers-on-cots.jpg` — Aerial front view of the truck with soldiers seated in the shade **[reviewed; product; vehicle; truck; aerial; front-view; shed; soldiers; cots]**
+- `strike-vehicle-aerial-rear-quarter-on-dry-field-with-buildings.jpg` — Aerial rear quarter of the truck on a dry field with buildings **[reviewed; product; vehicle; truck; aerial; rear-quarter; dry-field; buildings; soldier]**
+- `strike-vehicle-aerial-wide-shed-dirt-tracks-brick-buildings.jpg` — High aerial view of the truck near shed and brick buildings **[reviewed; support; vehicle; truck; aerial; wide; shed; brick-buildings; dirt-tracks]**
+- `strike-vehicle-distant-on-dry-field-under-vast-portrait-sky.jpg` — Distant truck on a dry field beneath a vast portrait sky **[reviewed; support; vehicle; truck; distant; dry-field; vast-sky; portrait; minimal]**
+- `strike-vehicle-driving-high-aerial-dirt-track-long-white-barracks.jpg` — High aerial of the truck on a dirt track beside white barracks **[reviewed; support; vehicle; truck; aerial; moving; dirt-track; barracks; wide]**
+- `strike-vehicle-front-on-raised-mast-220-plate-and-red-brick-building.jpg` — Front-on view of the STRIKE truck with mast and 220 plate **[reviewed; hero; vehicle; truck; front-on; mast; portrait; plate-220; brick-building]**
+- `strike-vehicle-front-quarter-on-grass-with-mast-and-hazy-sky.jpg` — Front quarter of the STRIKE truck on grass with mast raised **[reviewed; hero; vehicle; truck; mast; front-quarter; grass; building; hazy-sky]**
+- `strike-vehicle-high-aerial-barracks-compound-red-roofs-trees.jpg` — High aerial of the barracks compound with the STRIKE truck **[reviewed; support; vehicle; truck; aerial; high-altitude; barracks; compound; trees]**
+- `strike-vehicle-side-profile-on-dry-grass-field-long-barrack-distance.jpg` — Side profile of the truck on a dry grass field **[reviewed; support; vehicle; truck; side-profile; dry-grass; barrack; distance; hazy]**
+- `strike-vehicle-under-shed-aerial-opposite-side-dome-visible.jpg` — Aerial from the opposite side showing the dome and mast frame **[reviewed; product; vehicle; truck; dome; aerial; shed; sandy-ground]**
+- `strike-vehicle-under-tin-shed-aerial-closer-frame.jpg` — Closer aerial view of the truck under the tin shed **[reviewed; product; vehicle; truck; dome; aerial; tin-shed; personnel]**
+- `strike-vehicle-under-tin-shed-aerial-dry-ground-soldier-standing.jpg` — Aerial view of the STRIKE truck under a tin shed with a soldier **[reviewed; hero; vehicle; truck; mast; aerial; tin-shed; soldier; dry-ground]**
+- `drone-tracker-app-screen-recording-grid-hud-live-acquisition-1080p.webm` — Screen recording of the Drone Tracker app with grid overlay and tracking telemetry **[reviewed; ui; screen-recording; software; drone-tracker; ui; grid-overlay; telemetry; tracking; 1080p; verified]**
+- `prahar-netra-product-catalogue-35mb-pending-review-pptx.pptx` — PRAHAR NETRA product catalogue **[pending; doc; document; pptx; catalogue; prahar-netra; second-product-line; pending-review]**
+- `strike-launch-film-script-9-scenes-3min30-docx.docx` — STRIKE launch film script with nine scenes (DOCX) **[reviewed; doc; document; script; launch-film; strike-gen1; strike-gen2; srtike-gen3; docx; verified-text]**
+- `truck-mount-automation-clip-pending-review.mp4` — Truck mount automation video **[pending; video; video; automation; truck; pending-review]**
+- `truck-rifle-mounting-automation-clip-41mb-pending-review.mp4` — Truck rifle-mounting automation video **[pending; video; video; automation; rifle-mounting; truck; duplicate-copy; pending-review]**
+- `control-console-black-joystick-red-buttons-on-camo-vehicle.jpg` — Black joystick console with red buttons on a camo surface **[reviewed; detail; console; joystick; red-buttons; controller; camo-surface; closeup]**
+- `control-console-black-red-buttons-closeup-on-camo-surface.jpg` — Close-up of the black console with red buttons **[reviewed; detail; console; joystick; red-buttons; toggle-switches; camo-surface; closeup]**
+- `operator-soldier-in-camo-controller-on-truck-bed-wooden-deck.jpg` — Wider view of the soldier with the controller on a wooden deck **[reviewed; product; operator; soldier; camo; controller; wooden-deck; truck-bed]**
+- `operator-soldier-in-camo-with-pistol-grip-controller-on-truck-bed.jpg` — Soldier in camouflage holding a pistol-grip controller on the truck bed **[reviewed; hero; operator; soldier; camo; controller; pistol-grip; truck-bed; personnel]**
+- `poster-shield-and-strike-spec-sheet-sdr-detector-ai-hard-kill.jpg` — Framed SHIELD & STRIKE specification poster **[reviewed; poster; poster; spec-sheet; shield-and-strike; documentation; sdr; ai; hard-kill; wall-mounted]**
+- `poster-shield-and-strike-spec-sheet-second-copy-with-glare.jpg` — Second photo of the SHIELD & STRIKE poster with glare **[reviewed; poster; poster; spec-sheet; shield-and-strike; documentation; glare; second-copy]**
+- `poster-strike-m-mobile-cuas-system-spec-sheet-cost-3-50-lakh.jpg` — Framed STRIKE-M mobile C-UAS specification poster with cost **[reviewed; poster; poster; spec-sheet; strike-m; documentation; rf-jammer; hard-kill; cost; wall-mounted]**
+- `poster-strike-m-mobile-cuas-system-spec-sheet-second-copy.jpg` — Second photo of the STRIKE-M specification poster **[reviewed; poster; poster; spec-sheet; strike-m; documentation; second-copy]**
+- `strike-drone-shot-clip-2026-07-15-seq042-pending-review.mp4` — Drone shot clip, 15 July 2026 **[pending; video; video; drone-shot; pending-review; 2026-07-15]**
+- `strike-drone-shot-clip-2026-07-15-seq043-pending-review.mp4` — Drone shot clip seq 43 **[pending; video; video; drone-shot; pending-review; 2026-07-15]**
+- `strike-drone-shot-clip-2026-07-15-seq046-short-pending-review.mp4` — Short drone shot clip seq 46 **[pending; video; video; drone-shot; pending-review; 2026-07-15; short-clip]**
+- `strike-drone-shot-clip-2026-07-15-seq047-pending-review.mp4` — Drone shot clip seq 47 **[pending; video; video; drone-shot; pending-review; 2026-07-15]**
+- `strike-drone-shot-clip-2026-07-15-seq048-pending-review.mp4` — Drone shot clip seq 48 **[pending; video; video; drone-shot; pending-review; 2026-07-15]**
+- `strike-drone-shot-clip-2026-07-15-seq049-longest-pending-review.mp4` — Longest drone shot clip, 15 July 2026 **[pending; video; video; drone-shot; pending-review; 2026-07-15; longest]**
+- `strike-mast-dome-and-three-rifles-beside-spare-wheel-low-angle.jpg` — Low angle up the mast with dome and three rifles **[reviewed; product; mast; dome; three-rifle; spare-wheel; low-angle; cable]**
+- `strike-mast-low-angle-dome-and-spare-wheel-against-clouds.jpg` — Low-angle view up the mast with dome and spare wheel **[reviewed; product; mast; dome; spare-wheel; low-angle; clouds; portrait]**
+- `strike-turret-camo-rifles-blue-servos-silver-dome-portrait.jpg` — Close portrait of the camo rifle turret with blue servos **[reviewed; hero; turret; camo-rifle; blue-servo; silver-dome; portrait; closeup]**
+- `strike-turret-crew-viewpoint-rifle-barrels-roadside-buildings.jpg` — View from the crew position past the turret frame **[reviewed; hero; turret; crew-viewpoint; rifle-barrels; a-frame; truck-cab; roadside; buildings]**
+- `strike-turret-five-rifles-angled-up-silver-drum-roadside-portrait.jpg` — Five rifles angled up above the silver drum **[reviewed; hero; turret; five-rifle; angled-up; silver-drum; roadside; portrait]**
+- `strike-turret-five-rifles-at-sunset-brick-building-follow-me-sign.jpg` — Five-rifle turret against a sunset sky with a FOLLOW ME sign **[reviewed; hero; turret; five-rifle; sunset; sky; brick-building; follow-me-sign; antenna]**
+- `strike-turret-five-rifles-bed-level-roadside-trees-fence.jpg` — Bed-level view of the five-rifle turret with trees and fence **[reviewed; product; turret; five-rifle; bed-level; roadside; trees; fence]**
+- `strike-turret-five-rifles-bed-level-view-roadside-dry-grass.jpg` — Bed-level view of the five-rifle turret **[reviewed; product; turret; five-rifle; bed-level; roadside; dry-grass]**
+- `strike-turret-five-rifles-from-below-dry-tree-and-sunset-sky.jpg` — Five rifles seen from below against a dry tree and sunset sky **[reviewed; hero; turret; five-rifle; from-below; dry-tree; sunset-sky; silhouette]**
+- `strike-turret-five-rifles-on-truck-bed-from-above-roadside.jpg` — Five-rifle turret seen from above on the truck bed **[reviewed; product; turret; five-rifle; from-above; truck-bed; road; field; camo]**
+- `strike-turret-five-rifles-rear-right-truck-bed-roadside-trees.jpg` — Rear-right view of the five-rifle turret on the truck bed **[reviewed; product; turret; five-rifle; rear-right; truck-bed; road; trees]**
+- `strike-turret-five-rifles-sunset-sky-follow-me-sign-03.jpg` — Five-rifle turret at sunset with the FOLLOW ME sign **[reviewed; product; turret; five-rifle; sunset; follow-me-sign; power-lines]**
+- `strike-turret-five-rifles-with-two-crew-on-bed-white-truck-behind.jpg` — Turret with two crew on the bed and a white truck behind **[reviewed; hero; turret; five-rifle; crew; truck-bed; white-truck; behind; overcast]**
+- `strike-turret-four-rifles-operator-crouched-roadside-03.jpg` — Four-rifle turret with an operator crouched at the left **[reviewed; product; turret; four-rifle; operator; roadside; dry-grass; portrait]**
+- `strike-turret-four-rifles-operator-crouched-roadside-04.jpg` — Four-rifle turret with an operator crouched nearby **[reviewed; product; turret; four-rifle; operator; roadside; dry-grass; portrait]**
+- `strike-turret-four-rifles-operator-crouched-roadside-dry-field.jpg` — Four-rifle turret with an operator crouched beside it **[reviewed; product; turret; four-rifle; operator; roadside; dry-field; overcast]**
+- `strike-turret-four-rifles-sunset-sky-brick-building-follow-me-sign.jpg` — Four-rifle turret at sunset with brick building **[reviewed; product; turret; four-rifle; sunset; brick-building; follow-me-sign; antenna]**
+- `strike-turret-rear-quarter-closeup-on-truck-bed-roadside-railings.jpg` — Rear quarter close-up of the turret on the truck bed **[reviewed; product; turret; rear-quarter; closeup; truck-bed; roadside; railings]**
+- `strike-vehicle-bed-edge-spare-tire-and-camo-panel-tilted-frame.jpg` — Tilted frame along the truck bed with spare tire **[reviewed; detail; vehicle; truck; truck-bed; spare-tire; camo-panel; tilted-frame; abstract]**
+- `strike-vehicle-front-on-road-low-building-plate-220-02.jpg` — Front-on view of the truck with the 220 plate **[reviewed; product; vehicle; truck; front-on; road; low-building; plate-220; portrait]**
+- `strike-vehicle-side-operator-lying-beside-spare-wheel-02.jpg` — Side view of the truck with operator lying on the bed **[reviewed; product; vehicle; truck; side-view; operator; spare-wheel; blue-container]**
+- `strike-vehicle-side-operator-lying-beside-spare-wheel-blue-shutter.jpg` — Side view with an operator lying beside the spare wheel **[reviewed; product; vehicle; truck; side-view; operator; spare-wheel; blue-shutter]**
+- `strike-vehicle-side-operator-lying-on-bed-beside-spare-wheel.jpg` — Operator lying on the truck bed beside the spare wheel **[reviewed; product; vehicle; truck; side-view; operator; spare-wheel; blue-container; tree]**
+- `strike-vehicle-side-operator-lying-on-bed-plate-visible.jpg` — Side view with the operator on the bed and plate visible **[reviewed; product; vehicle; truck; side-view; operator; spare-wheel; number-plate]**
+- `strike-vehicle-side-profile-mast-brick-building-power-lines.jpg` — Side profile of the truck with mast folded **[reviewed; product; vehicle; truck; side-profile; mast; brick-building; power-lines]**
+- `strike-vehicle-side-profile-paved-road-brick-building-power-lines.jpg` — Side profile of the truck on a paved road **[reviewed; hero; vehicle; truck; side-profile; paved-road; brick-building; number-plate]**
+- `strike-gen2-concept-tubular-frame-eo-ir-gimbal-desert-outpost-render.png` — Concept render of STRIKE Gen 2 with EO/IR gimbal in the desert **[reviewed; hero; strike-gen2; concept; ai-render; eo-ir; gimbal; desert; outpost; drone; tubular-frame]**
+- `strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-clean.png` — Clean photo of the STRIKE M turret with AKs and LMGs **[reviewed; hero; strike-m; turret; four-weapon; lmg; ak; white-drum; indoor; clean]**
+- `strike-m-turret-two-ak-and-two-lmg-white-drum-indoor-bench-video-frame.png` — STRIKE M turret with two AKs and two LMGs on a white drum **[reviewed; hero; strike-m; turret; four-weapon; lmg; ak; white-drum; indoor; bench; video-frame]**
+- `strike-turret-five-rifles-ai-render-pastel-sky-truck-bed.png` — AI render of the five-rifle turret on a truck bed at pastel dusk **[reviewed; poster; turret; five-rifle; concept; ai-render; pastel-sky; truck-bed]**
+- `drone-tracker-app-screen-recording-duplicate-webm.webm` — Duplicate of the Drone Tracker screen recording **[reviewed; ui; screen-recording; software; drone-tracker; duplicate; redundant; verified]**
+- `strike-test-clip-2026-06-24-seq054-pending-review.mp4` — STRIKE clip, 24 June 2026 **[pending; video; video; pending-review; 2026-06-24]**
+- `strike-test-clip-2026-06-25-seq001-pending-review.mp4` — STRIKE clip, 25 June 2026 **[pending; video; video; pending-review; 2026-06-25]**
+- `strike-test-clip-2026-06-27-seq008-pending-review.mp4` — STRIKE clip, 27 June 2026 **[pending; video; video; pending-review; 2026-06-27]**
+- `strike-test-clip-2026-07-02-seq000-large-pending-review.mp4` — STRIKE clip, 2 July 2026 **[pending; video; video; pending-review; 2026-07-02; large]**
+- `strike-turret-five-rifles-alu-frame-foliage-tiny-crop.jpeg` — Tiny crop of the turret frame against foliage **[reviewed; support; turret; five-rifle; alu-frame; foliage; tiny; low-resolution]**
+- `strike-turret-five-rifles-closeup-white-sky-square.jpeg` — Square close-up of the five-rifle turret against white sky **[reviewed; product; turret; five-rifle; closeup; white-sky; square; silver-drum]**
+- `strike-turret-five-rifles-silver-drum-field-trees-overcast.jpeg` — Five-rifle turret above the silver drum in a field **[reviewed; product; turret; five-rifle; silver-drum; field; trees; overcast; square]**
+- `strike-turret-five-rifles-trees-close-crop-tiny.jpeg` — Tiny close crop of the five-rifle frame with foliage **[reviewed; support; turret; five-rifle; trees; close-crop; tiny; low-resolution]**
+- `strike-turret-silhouette-low-angle-overcast-small-frame.jpeg` — Dim silhouette of the five-rifle turret **[reviewed; support; turret; silhouette; low-angle; overcast; small-frame; moody]**
+- `strike-m-gen1-clip-2-75mb-pending-review.mp4` — STRIKE M Gen1 clip, second take **[pending; video; video; strike-m; gen1; pending-review; large]**
+- `strike-m-ver1-testing-trial-pending-review.mp4` — STRIKE M version 1 testing video **[pending; video; video; strike-m; testing; multi-weapon; pending-review]**
+- `controller-3d-printed-u-frame-ten-red-buttons-toggles-closeup.jpeg` — 3D-printed controller frame with ten red buttons **[reviewed; detail; controller; 3d-printed; red-buttons; toggle-switches; led; camo-surface; closeup]**
+- `screenshot-raspberry-pi-remote-desktop-wayvnc-orange-wallpaper.png` — Raspberry Pi remote desktop screenshot with orange wallpaper **[reviewed; ui; ui; screenshot; raspberry-pi; wayvnc; remote-desktop; software; orange-wallpaper]**
+- `screenshot-steps-txt-mousepad-drone-track-service-commands.jpeg` — Screenshot of the Steps.txt runbook with systemd commands **[reviewed; ui; ui; screenshot; text-editor; runbook; commands; systemd; software; documentation]**
