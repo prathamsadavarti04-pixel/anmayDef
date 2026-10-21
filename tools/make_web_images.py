@@ -16,7 +16,9 @@ from curate import CURATED  # noqa: E402
 
 OUT = "assets/web"
 THUMBS = os.path.join(OUT, "thumbs")
+GRID = os.path.join(OUT, "grid")
 os.makedirs(THUMBS, exist_ok=True)
+os.makedirs(GRID, exist_ok=True)
 
 
 def has_alpha(im):
@@ -49,7 +51,12 @@ def convert(src, stem):
     th = im.copy()
     th.thumbnail((700, 700), Image.LANCZOS)
     th.convert("RGB").save(dst_thumb, "JPEG", quality=76, optimize=True, progressive=True)
-    return dst_full, dst_thumb
+
+    gr = im.copy()
+    gr.thumbnail((520, 520), Image.LANCZOS)
+    dst_grid = os.path.join(GRID, stem + ".jpg")
+    gr.convert("RGB").save(dst_grid, "JPEG", quality=72, optimize=True, progressive=True)
+    return dst_full, dst_thumb, dst_grid
 
 
 # resolve sources by filename stem, so .jpg/.jpeg changes never break the build
@@ -74,8 +81,8 @@ rows = []
 for item in CURATED:
     src = resolve(item["src"])
     stem = os.path.splitext(os.path.basename(src))[0]
-    full, thumb = convert(src, stem)
-    rows.append(dict(stem=stem, full=full, thumb=thumb,
+    full, thumb, grid = convert(src, stem)
+    rows.append(dict(stem=stem, full=full, thumb=thumb, grid=grid,
                      category=item["category"], title=item["title"], note=item.get("note", "")))
     print(f"{os.path.getsize(full)/1024:7.0f} KB  {full}")
 

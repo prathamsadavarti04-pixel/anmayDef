@@ -161,7 +161,7 @@ def gallery_html(only=None, limit=None):
         out.append(
             f'<figure data-cat="{c["category"]}" data-caption="{cap}">'
             f'<span class="tag">{CAT_LABEL[c["category"]]}</span>'
-            f'<a href="{c["full"]}"><img src="{c["thumb"]}" alt="{c["title"]}" loading="lazy" decoding="async"></a>'
+            f'<a href="{c["full"]}"><img src="{c["grid"]}" alt="{c["title"]}" loading="lazy" decoding="async"></a>'
             f'<figcaption><b>{c["title"]}</b><span>{c["note"]}</span></figcaption></figure>'
         )
     return "\n".join(out)
