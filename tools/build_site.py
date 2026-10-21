@@ -108,6 +108,7 @@ def footer():
           <li><a href="strike.html#specs">Specifications</a></li>
           <li><a href="technology.html#roadmap">Roadmap</a></li>
           <li><a href="docs/assets-catalog.csv">Asset catalogue (CSV)</a></li>
+          <li><a href="docs/shortlist.md">Image shortlist</a></li>
           <li><a href="legacy/index-single-page-v1.html">Original landing page</a></li>
         </ul>
       </div>
@@ -159,7 +160,7 @@ def gallery_html(only=None, limit=None):
         cap = f'{c["title"]} — {c["note"]}'.replace('"', "&quot;")
         out.append(
             f'<figure data-cat="{c["category"]}" data-caption="{cap}">'
-            f'<span class="tag">{CAT_LABEL[c["category"]].replace("&amp;", "&")}</span>'
+            f'<span class="tag">{CAT_LABEL[c["category"]]}</span>'
             f'<a href="{c["full"]}"><img src="{c["thumb"]}" alt="{c["title"]}" loading="lazy" decoding="async"></a>'
             f'<figcaption><b>{c["title"]}</b><span>{c["note"]}</span></figcaption></figure>'
         )

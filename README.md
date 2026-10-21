@@ -71,6 +71,7 @@ file in `assets/` is described:
 | `docs/assets-index.md` | One line per file: new name, short description, tags, review state |
 | `docs/assets-catalog.csv` | Full catalogue: path, kind, LFS oid/size, md5, role, quality, page, tags, alt text, long description, duplicate flag |
 | `docs/assets-catalog.json` | The same, for scripting |
+| `docs/shortlist.md` | The 64 frames chosen for the site, grouped by subject, with the page each one serves |
 
 ### Naming convention
 
