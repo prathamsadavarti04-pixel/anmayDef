@@ -9757,16 +9757,16 @@ DESCRIPTIONS = {'assets/drone-detection-videos-photos/ak-buttstock-end-with-38-m
  'assets/videos/drone-tracker-app-screen-recording-grid-hud-live-acquisition-1080p.webm': {'alt': 'Screen recording '
                                                                                                   'of the Drone '
                                                                                                   'Tracker app with '
-                                                                                                  'grid overlay and '
-                                                                                                  'tracking '
+                                                                                                  'a 5x5 grid, a '
+                                                                                                  'locked drone '
+                                                                                                  'bounding box and '
                                                                                                   'telemetry',
                                                                                            'desc': 'Screen recording '
-                                                                                                   '(1920x1080, ~12 '
-                                                                                                   'minutes, 14.9 '
-                                                                                                   'MB) of the Drone '
-                                                                                                   'Tracker operator '
-                                                                                                   'application '
-                                                                                                   'running on a '
+                                                                                                   '(1920x1080, 14.3 '
+                                                                                                   'MB) of the '
+                                                                                                   "'Drone Tracker' "
+                                                                                                   'operator '
+                                                                                                   'application on a '
                                                                                                    'Linux desktop '
                                                                                                    'with an orange '
                                                                                                    'mountain '
@@ -9779,50 +9779,59 @@ DESCRIPTIONS = {'assets/drone-detection-videos-photos/ak-buttstock-end-with-38-m
                                                                                                    "screen' banner, "
                                                                                                    'then shows the '
                                                                                                    'tracker window: '
-                                                                                                   'a 4x4 green grid '
-                                                                                                   'overlaid on the '
-                                                                                                   'live camera '
-                                                                                                   'feed, '
+                                                                                                   'a 5x5 green '
+                                                                                                   'search grid '
+                                                                                                   "(labelled '5x5') "
+                                                                                                   'over the live '
+                                                                                                   'camera feed, '
                                                                                                    'colour-coded '
                                                                                                    'cells (pale '
                                                                                                    'pink/magenta for '
                                                                                                    'empty sky, dark '
-                                                                                                   'grey panel at '
-                                                                                                   'the bottom), a '
+                                                                                                   'grey telemetry '
+                                                                                                   'panel along the '
+                                                                                                   'bottom), a '
                                                                                                    'moving crosshair '
                                                                                                    'and target boxes '
                                                                                                    "labelled 'drone "
                                                                                                    "42%', 'drone 65% "
                                                                                                    "(acq)', 'drone "
-                                                                                                   "72%' and '44% "
-                                                                                                   "(acq)' with "
-                                                                                                   'small cyan '
-                                                                                                   'brackets. A '
+                                                                                                   "72%', 'drone "
+                                                                                                   "52%' and finally "
+                                                                                                   "'drone 77%' "
+                                                                                                   'locked in a '
+                                                                                                   'green bounding '
+                                                                                                   'box on a clearly '
+                                                                                                   'visible '
+                                                                                                   'quadcopter. The '
                                                                                                    'telemetry strip '
-                                                                                                   'shows '
-                                                                                                   'TRACK/MOVE/COAST/STIL '
-                                                                                                   'state, LPT '
-                                                                                                   '10/10x, lck '
-                                                                                                   '100%, foc '
-                                                                                                   '88%/61%, DIG '
-                                                                                                   '1.53x-2.87x, '
+                                                                                                   'shows TRACK / '
+                                                                                                   'MOVE / COAST / '
+                                                                                                   'STIL state, OPT '
+                                                                                                   '10/10x, trk '
+                                                                                                   '100%, fec 100%, '
+                                                                                                   'lck 100%, DIG '
+                                                                                                   '1.53x to 4.61x, '
                                                                                                    'gimbal-settling, '
-                                                                                                   'sharp 55, cmd '
-                                                                                                   'RMO2/RMO1 TX '
-                                                                                                   '3Hz/4Hz, and a '
-                                                                                                   'footer with raw '
+                                                                                                   'fill 1.09%, '
+                                                                                                   'sharp 55-580, '
+                                                                                                   'cmd RMO1/RMO2, '
+                                                                                                   'TX 2-4 Hz, plus '
+                                                                                                   'a footer of raw '
                                                                                                    'sensor values '
-                                                                                                   '(R/G/B, py). A '
-                                                                                                   'quadcopter '
-                                                                                                   'becomes visible '
-                                                                                                   'against a dusty '
-                                                                                                   'field with trees '
-                                                                                                   'and a dirt '
-                                                                                                   'track, so the '
-                                                                                                   'clip documents '
-                                                                                                   'live drone '
+                                                                                                   '(x/y, R/G/B, '
+                                                                                                   'py). Mid-clip '
+                                                                                                   'the feed changes '
+                                                                                                   'from empty sky '
+                                                                                                   'to a dusty field '
+                                                                                                   'with trees and a '
+                                                                                                   'dirt track, so '
+                                                                                                   'the recording '
+                                                                                                   'documents live '
+                                                                                                   'drone '
                                                                                                    'acquisition and '
-                                                                                                   'tracking.',
+                                                                                                   'tracking end to '
+                                                                                                   'end.',
                                                                                            'name': 'drone-tracker-app-screen-recording-grid-hud-live-acquisition-1080p',
                                                                                            'page': 'technology',
                                                                                            'quality': 'hero',
@@ -9831,7 +9840,8 @@ DESCRIPTIONS = {'assets/drone-detection-videos-photos/ak-buttstock-end-with-38-m
                                                                                                     'software',
                                                                                                     'drone-tracker',
                                                                                                     'ui',
-                                                                                                    'grid-overlay',
+                                                                                                    '5x5-grid-overlay',
+                                                                                                    'bounding-box',
                                                                                                     'telemetry',
                                                                                                     'tracking',
                                                                                                     '1080p',

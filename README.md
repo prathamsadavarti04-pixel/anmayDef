@@ -142,7 +142,17 @@ git lfs pull --include="assets/videos/strike-m-videos/**"
 ```
 
 **After pulling, the video descriptions still need a human pass.** The 87 MP4s were
-never opened here, so their names are structured but provisional. Each one is listed
+never opened here, so their names are structured but provisional. To make that pass
+quick, generate a labelled contact sheet per clip:
+
+```bash
+git lfs pull
+pip install pillow imageio-ffmpeg
+python3 tools/video_contact_sheets.py      # -> review/video-sheets/*.jpg
+```
+
+Each sheet shows four frames plus the filename, duration and size, so one glance is
+usually enough to write the real description. Each one is listed
 in `docs/assets-index.md` with its LFS oid; watch the clip, then rename — the pattern
 to follow is already established by the images, e.g.
 
