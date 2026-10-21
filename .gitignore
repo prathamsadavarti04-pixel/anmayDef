@@ -1,0 +1,7 @@
+# generated review output (contact sheets for LFS videos)
+review/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
